@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name              vip解析助手：哔哩哔哩解锁大会员、B站视频解析下载；A站视频解析下载；爱奇艺、腾讯、优酷、芒果等全网VIP视频免费看破解去广告(免跳直接看)；Youtube、Facebook等视频解析下载
-// @namespace         vip_video_helper
-// @version           3.0.3
+// @name              超级视频助手：哔哩哔哩解锁大会员、B站视频解析下载；A站视频解析下载；爱奇艺、腾讯、优酷、芒果等全网VIP视频免费看破解去广告(免跳直接看)；Youtube、Facebook等视频解析下载
+// @namespace         super_video_helper_cat
+// @version           3.0.2
 // @description       B站番剧解锁、视频解析下载；A站视频解析下载；爱奇艺、腾讯、优酷等全网VIP视频免费、破解去广告(免跳出观影特方便，支持【PC端+移动端，可自定义接口】)；支持高清普清电视频道观看(CCTV、湖南卫视等100多个台)；Youtube油管、Facebook视频解析下载【👊👊脚本长期维护更新，完全免费，无广告，大家可放心使用！！】
-// @author            wuzhij
+// @author            爱画画的猫
 // @icon              data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACS0lEQVRYR8WXz2oTURTGv3MnpqhNKy1UWmxRTGdaiLSQRKkKIoK4FVrRPoHu7BMYn0B3+gQquuiuiC6kaFVsAhGEZkKqG/+Vrtp0YWsyR27KlEwz0xnnT3LgwjB37vl+97tzz9whdDiow/pwBCjofN0AJohwKQgkMxYF8Dmt0bxdnhaAQoWTXMczENJBhFvGMgqk4GY6SZXmPgvAmy/cnYijGqrwvmTVHSQup2jLvG0ByJf5EYDbUQIAeJxR6U4LQHGV1VodesTijfQxBdrkaSrL6z0Hlst8i4An7QBgYDar0lMrgM45ItxrCwDjflajnC+AtR8Gvn8zGpz9xwVOjor/Zma/ANt/GIsLNWxt8p7o4IiAmlLQP+C9pvkG+FoyUPxYs52xhFDPKIh3uRviG2ClWIdsTpHoJYymFNdliQzABBsaEZg4p+DwUftliRxAggwOC0xdidma1RaAI92Ea9OHOgcwPqlANruI1AElhsa2dBKXQJEBnDglGlvxWN/BNcE3gKyCS69b64AUlMISwEv4BpDJ3778i/Xfu5XQtFtaLq+9RiCA6gZj/dcuQN8Audod6kvodYZuz9k7UOK7JPDAbXAY/WxgLjtGDy2f408VPi8MLIUh4JbDELhwNknvLQDyQNoTh87AkFuCIP0E/NzcgWYeTC0bdrkNp6Lm9bc4YM4qr/NzEGaCzNJxLONFRqMbzf22JSu/wlcphhwzpsIAIcIHriGXGadX+/MdWDPflTjRxcH+kLYJhYtj5Piz4/0gF4YVNjk6DvAPDb0aMEr8/nEAAAAASUVORK5CYII=
 //---------------------------------------------------
 // @include           *://xbeibeix.com/api/bilibili/biliplayer/*
@@ -19,7 +19,7 @@
 // @include           *://*.tudou.com/listplay/*
 // @include           *://*.tudou.com/albumplay/*
 // @include           *://*.tudou.com/programs/view/*
-// @include           *://*.mgtv.com/b/*
+// @include           *://*.miguvideo.com/b/*
 // @include           *://film.sohu.com/album/*
 // @include           *://tv.sohu.com/v/*
 // @include           *://*.acfun.cn/v/*
@@ -42,7 +42,7 @@
 // @include           *://m.iqiyi.com/*
 // @include           *://m.iqiyi.com/kszt/*
 // @include           *://m.youku.com/alipay_video/*
-// @include           *://m.mgtv.com/b/*
+// @include           *://m.miguvideo.com/b/*
 // @include           *://m.tv.sohu.com/v/*
 // @include           *://m.film.sohu.com/album/*
 // @include           *://m.le.com/ptv/vplay/*
@@ -87,9 +87,9 @@
 	var originalInterfaceList = [
 		{"name":"纯净解析","category":"1","url":"https://z1.m1907.cn/?jx="},
 		{"name":"90解析","category":"1","url":"http://90zyk.com/?url="},
-	  	{"name":"1717","category":"1","url":"https://www.1717yun.com/jx/ty.php?url="},                         
-     	{"name":"星驰","category":"1","url":"https://vip.swuii.top/?url="},
-    	{"name":"星驰2","category":"1","url":"https://vip.cjys.top/?url="},
+		{"name":"1717","category":"1","url":"https://www.1717yun.com/jx/ty.php?url="},                         
+		{"name":"星驰","category":"1","url":"https://vip.swuii.top/?url="},
+		{"name":"星驰2","category":"1","url":"https://vip.cjys.top/?url="},
 		{"name":"月亮","category":"1","url":"https://api.yueliangjx.com/?url="},
 		{"name":"全民","category":"1","url":"http://jx.quanmingjiexi.com/?url="},
 		{"name":"猪蹄","category":"1","url":"https://jx.iztyy.com/svip/?url="},
@@ -99,20 +99,20 @@
 		{"name":"B站解析1","category":"1","url":"https://vip.parwix.com:4433/player/?url="},
 		{"name":"B站解析2","category":"1","url":"https://www.cuan.la/m3u8.php?url="},
 		{"name":"大慕","category":"1","url":"http://jx.52damu.com/?url="},
-        {"name":"狐狸","category":"1","url":"https://bt.hulcms.com/?url="},
-       	{"name":"播放系统","category":"1","url":"https://player.momovod.tv/player/?url="},
-        {"name":"小蒋","category":"1","url":"https://www.kpezp.cn/jlexi.php?url="},
-        {"name":"618解析","category":"1","url":"http://api.baiyug.vip/index.php?url="},
-        {"name":"efuns","category":"1","url":"https://client.efuns.vip/?url="},
+		{"name":"狐狸","category":"1","url":"https://bt.hulcms.com/?url="},
+		{"name":"播放系统","category":"1","url":"https://player.momovod.tv/player/?url="},
+		{"name":"小蒋","category":"1","url":"https://www.kpezp.cn/jlexi.php?url="},
+		{"name":"618解析","category":"1","url":"http://api.baiyug.vip/index.php?url="},
+		{"name":"efuns","category":"1","url":"https://client.efuns.vip/?url="},
 		{"name":"大侠","category":"1","url":"https://api.10dy.net/?url="},
 		{"name":"ELW","category":"1","url":"https://jx.elwtc.com/vip/?url="}
 		{"name":"Ckplayer","category":"1","url":"https://www.ckplayer.vip/jiexi/?url="},
 		{"name":"BL","category":"1","url":"https://vip.bljiex.com/?v="},
 
 		{"name":"90解析","category":"2","url":"http://90zyk.com/?url="},
-	  	{"name":"1717","category":"2","url":"https://www.1717yun.com/jx/ty.php?url="},                         
-     	{"name":"星驰","category":"2","url":"https://vip.swuii.top/?url="},
-    	{"name":"星驰2","category":"2","url":"https://vip.cjys.top/?url="},
+		{"name":"1717","category":"2","url":"https://www.1717yun.com/jx/ty.php?url="},                         
+		{"name":"星驰","category":"2","url":"https://vip.swuii.top/?url="},
+		{"name":"星驰2","category":"2","url":"https://vip.cjys.top/?url="},
 		{"name":"月亮","category":"2","url":"https://api.yueliangjx.com/?url="},
 		{"name":"全民","category":"2","url":"http://jx.quanmingjiexi.com/?url="},
 		{"name":"猪蹄","category":"2","url":"https://jx.iztyy.com/svip/?url="},
@@ -122,11 +122,11 @@
 		{"name":"B站解析1","category":"2","url":"https://vip.parwix.com:4433/player/?url="},
 		{"name":"B站解析2","category":"2","url":"https://www.cuan.la/m3u8.php?url="},
 		{"name":"大慕","category":"2","url":"http://jx.52damu.com/?url="},
-        {"name":"狐狸","category":"2","url":"https://bt.hulcms.com/?url="},
-      	{"name":"播放系统","category":"2","url":"https://player.momovod.tv/player/?url="},
-        {"name":"小蒋","category":"2","url":"https://www.kpezp.cn/jlexi.php?url="},
-        {"name":"618解析","category":"2","url":"http://api.baiyug.vip/index.php?url="},
-        {"name":"efuns","category":"2","url":"https://client.efuns.vip/?url="},
+		{"name":"狐狸","category":"2","url":"https://bt.hulcms.com/?url="},
+		{"name":"播放系统","category":"2","url":"https://player.momovod.tv/player/?url="},
+		{"name":"小蒋","category":"2","url":"https://www.kpezp.cn/jlexi.php?url="},
+		{"name":"618解析","category":"2","url":"http://api.baiyug.vip/index.php?url="},
+		{"name":"efuns","category":"2","url":"https://client.efuns.vip/?url="},
 		{"name":"大侠","category":"2","url":"https://api.10dy.net/?url="},
 		{"name":"ELW","category":"2","url":"https://jx.elwtc.com/vip/?url="}
 		{"name":"Ckplayer","category":"2","url":"https://www.ckplayer.vip/jiexi/?url="},
@@ -136,8 +136,8 @@
 		{ url:"v.qq.com", node:"#mod_player"},
 		{ url:"www.iqiyi.com", node:"#flashbox"},
 		{ url:"v.youku.com", node:"#player"},
-		{ url:"w.mgtv.com", node:"#mgtv-player-wrap"},
-		{ url:"www.mgtv.com", node:"#miguvideo-player-wrap"},
+		{ url:"w.miguvideo.com", node:"#miguvideo-player-wrap"},
+		{ url:"www.miguvideo.com", node:"#miguvideo-player-wrap"},
 		{ url:"tv.sohu.com", node:"#player"},
 		{ url:"film.sohu.com", node:"#playerWrap"},
 		{ url:"www.le.com", node:"#le_playbox"},
@@ -157,7 +157,7 @@
 	(new superVideoHelper(newOriginalInterfaceList, playerNodes)).start();
 	
 	/**
-	 * vip解析助手
+	 * 超级解析助手
 	 * @param {Object} originalInterfaceList
 	 * @param {Object} playerNodes
 	 */
@@ -242,7 +242,6 @@
 							#vip_movie_box .default-scrollbar-55678::-webkit-scrollbar-track{box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.2); background:#ededed;}
 							`
 			this.GMaddStyle(cssMould);
-			
 			
 			var htmlMould = `<div id='vip_movie_box'>
 								<div class='item_text'>
@@ -585,7 +584,7 @@
 					}, 500);
 					
 					break
-				case 'miguvideo.com':
+				case 'www.miguvideo.com':
 					
 					break
 				case 'tv.sohu.com':
