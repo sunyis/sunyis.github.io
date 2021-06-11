@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name              vip解析助手：哔哩哔哩解锁大会员、B站视频解析下载；A站视频解析下载；爱奇艺、腾讯、优酷、芒果等全网VIP视频免费看破解去广告(免跳直接看)；Youtube、Facebook等视频解析下载
-// @namespace         vip_video_helper
-// @version           3.0.3
+// @name              超级视频助手：哔哩哔哩解锁大会员、B站视频解析下载；A站视频解析下载；爱奇艺、腾讯、优酷、芒果等全网VIP视频免费看破解去广告(免跳直接看)；Youtube、Facebook等视频解析下载
+// @namespace         super_video_helper_cat
+// @version           3.0.2
 // @description       B站番剧解锁、视频解析下载；A站视频解析下载；爱奇艺、腾讯、优酷等全网VIP视频免费、破解去广告(免跳出观影特方便，支持【PC端+移动端，可自定义接口】)；支持高清普清电视频道观看(CCTV、湖南卫视等100多个台)；Youtube油管、Facebook视频解析下载【👊👊脚本长期维护更新，完全免费，无广告，大家可放心使用！！】
-// @author            wuzhij.com
+// @author            爱画画的猫
 // @icon              data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACS0lEQVRYR8WXz2oTURTGv3MnpqhNKy1UWmxRTGdaiLSQRKkKIoK4FVrRPoHu7BMYn0B3+gQquuiuiC6kaFVsAhGEZkKqG/+Vrtp0YWsyR27KlEwz0xnnT3LgwjB37vl+97tzz9whdDiow/pwBCjofN0AJohwKQgkMxYF8Dmt0bxdnhaAQoWTXMczENJBhFvGMgqk4GY6SZXmPgvAmy/cnYijGqrwvmTVHSQup2jLvG0ByJf5EYDbUQIAeJxR6U4LQHGV1VodesTijfQxBdrkaSrL6z0Hlst8i4An7QBgYDar0lMrgM45ItxrCwDjflajnC+AtR8Gvn8zGpz9xwVOjor/Zma/ANt/GIsLNWxt8p7o4IiAmlLQP+C9pvkG+FoyUPxYs52xhFDPKIh3uRviG2ClWIdsTpHoJYymFNdliQzABBsaEZg4p+DwUftliRxAggwOC0xdidma1RaAI92Ea9OHOgcwPqlANruI1AElhsa2dBKXQJEBnDglGlvxWN/BNcE3gKyCS69b64AUlMISwEv4BpDJ3778i/Xfu5XQtFtaLq+9RiCA6gZj/dcuQN8Audod6kvodYZuz9k7UOK7JPDAbXAY/WxgLjtGDy2f408VPi8MLIUh4JbDELhwNknvLQDyQNoTh87AkFuCIP0E/NzcgWYeTC0bdrkNp6Lm9bc4YM4qr/NzEGaCzNJxLONFRqMbzf22JSu/wlcphhwzpsIAIcIHriGXGadX+/MdWDPflTjRxcH+kLYJhYtj5Piz4/0gF4YVNjk6DvAPDb0aMEr8/nEAAAAASUVORK5CYII=
 //---------------------------------------------------
 // @include           *://xbeibeix.com/api/bilibili/biliplayer/*
@@ -159,7 +159,7 @@
 	(new superVideoHelper(newOriginalInterfaceList, playerNodes)).start();
 	
 	/**
-	 * vip解析助手
+	 * 超级解析助手
 	 * @param {Object} originalInterfaceList
 	 * @param {Object} playerNodes
 	 */
@@ -244,7 +244,6 @@
 							#vip_movie_box .default-scrollbar-55678::-webkit-scrollbar-track{box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.2); background:#ededed;}
 							`
 			this.GMaddStyle(cssMould);
-			
 			
 			var htmlMould = `<div id='vip_movie_box'>
 								<div class='item_text'>
@@ -587,7 +586,7 @@
 					}, 500);
 					
 					break
-				case 'miguvideo.com':
+				case 'www.miguvideo.com':
 					
 					break
 				case 'tv.sohu.com':
@@ -638,7 +637,7 @@
 		this.start = function(){
 			this.operatOther();
 			var host = window.location.host;
-			var vipVideoHost=["qq.com","iqiyi.com","youku.com","miguvideo.com","sohu.com","le.com","pptv.com","acfun.cn","bilibili.com","1905.com","wasu.cn"];
+			var vipVideoHost=["qq.com","iqiyi.com","youku.com","mgtv.com","sohu.com","le.com","pptv.com","acfun.cn","bilibili.com","1905.com","wasu.cn"];
 			var isExist = false;
 			for(var i=0; i<vipVideoHost.length; i++){
 				if(host.indexOf(vipVideoHost[i])!=-1){
