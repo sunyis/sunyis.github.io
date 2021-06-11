@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name              vip视频助手：哔哩哔哩解锁大会员、B站视频解析下载；A站视频解析下载；爱奇艺、腾讯、优酷、芒果等全网VIP视频免费看破解去广告(免跳直接看)；Youtube、Facebook等视频解析下载
+// @name              vip解析助手：哔哩哔哩解锁大会员、B站视频解析下载；A站视频解析下载；爱奇艺、腾讯、优酷、芒果等全网VIP视频免费看破解去广告(免跳直接看)；Youtube、Facebook等视频解析下载
 // @namespace         vip_video_helper
 // @version           3.0.3
 // @description       B站番剧解锁、视频解析下载；A站视频解析下载；爱奇艺、腾讯、优酷等全网VIP视频免费、破解去广告(免跳出观影特方便，支持【PC端+移动端，可自定义接口】)；支持高清普清电视频道观看(CCTV、湖南卫视等100多个台)；Youtube油管、Facebook视频解析下载【👊👊脚本长期维护更新，完全免费，无广告，大家可放心使用！！】
@@ -159,7 +159,7 @@
 	(new superVideoHelper(newOriginalInterfaceList, playerNodes)).start();
 	
 	/**
-	 * vip
+	 * vip解析助手
 	 * @param {Object} originalInterfaceList
 	 * @param {Object} playerNodes
 	 */
@@ -244,6 +244,7 @@
 							#vip_movie_box .default-scrollbar-55678::-webkit-scrollbar-track{box-shadow:inset 0 0 5px rgba(0, 0, 0, 0.2); background:#ededed;}
 							`
 			this.GMaddStyle(cssMould);
+			
 			
 			var htmlMould = `<div id='vip_movie_box'>
 								<div class='item_text'>
