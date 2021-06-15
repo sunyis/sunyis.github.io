@@ -19,7 +19,7 @@
 // @include           *://*.tudou.com/listplay/*
 // @include           *://*.tudou.com/albumplay/*
 // @include           *://*.tudou.com/programs/view/*
-// @include           *://*.miguvideo.com/b/*
+// @include           *://*.mgtv.com/b/*
 // @include           *://film.sohu.com/album/*
 // @include           *://tv.sohu.com/v/*
 // @include           *://*.acfun.cn/v/*
@@ -42,7 +42,7 @@
 // @include           *://m.iqiyi.com/*
 // @include           *://m.iqiyi.com/kszt/*
 // @include           *://m.youku.com/alipay_video/*
-// @include           *://m.miguvideo.com/b/*
+// @include           *://m.mgtv.com/b/*
 // @include           *://m.tv.sohu.com/v/*
 // @include           *://m.film.sohu.com/album/*
 // @include           *://m.le.com/ptv/vplay/*
@@ -158,6 +158,7 @@
 		{ url:"v.qq.com", node:"#mod_player"},
 		{ url:"www.iqiyi.com", node:"#flashbox"},
 		{ url:"v.youku.com", node:"#player"},
+		{ url:"www.mgtv.com", node:"#mgtv-player-wrap"},
 		{ url:"www.miguvideo.com", node:"#miguvideo-player-wrap"},
 		{ url:"tv.sohu.com", node:"#player"},
 		{ url:"film.sohu.com", node:"#playerWrap"},
@@ -170,6 +171,7 @@
 		{ url:"www.bilibili.com", node:"#player_module"},
 		{ url:"vip.1905.com", node:"#player"},
 		{ url:"miguvideo.com", node:"#player"},
+		{ url:"mgtv.com", node:"#player"},
 	];
 	var newOriginalInterfaceList = originalInterfaceList;
 	try{
@@ -608,6 +610,9 @@
 				case 'www.miguvideo.com':
 					
 					break
+					case 'www.mgt.com':
+					
+					break
 				case 'tv.sohu.com':
 					setInterval(() => {
 						try{
@@ -656,7 +661,7 @@
 		this.start = function(){
 			this.operatOther();
 			var host = window.location.host;
-			var vipVideoHost=["qq.com","iqiyi.com","youku.com","miguvideo.com","sohu.com","le.com","pptv.com","acfun.cn","bilibili.com","1905.com","wasu.cn"];
+			var vipVideoHost=["qq.com","'mgtv.com","iqiyi.com","youku.com","miguvideo.com","sohu.com","le.com","pptv.com","acfun.cn","bilibili.com","1905.com","wasu.cn"];
 			var isExist = false;
 			for(var i=0; i<vipVideoHost.length; i++){
 				if(host.indexOf(vipVideoHost[i])!=-1){
