@@ -19,7 +19,7 @@
 // @include           *://*.tudou.com/listplay/*
 // @include           *://*.tudou.com/albumplay/*
 // @include           *://*.tudou.com/programs/view/*
-// @include           *://*.mgtv.com/b/*
+// @include           *://*www.mgtv.com/b/*
 // @include           *://film.sohu.com/album/*
 // @include           *://tv.sohu.com/v/*
 // @include           *://*.acfun.cn/v/*
@@ -158,7 +158,7 @@
 		{ url:"v.qq.com", node:"#mod_player"},
 		{ url:"www.iqiyi.com", node:"#flashbox"},
 		{ url:"v.youku.com", node:"#player"},
-		{ url:"www.mgtv.com", node:"#mgtv-player-wrap"},
+		{ url:"www.mgtv.com", node:"#mgtvvideo-player-wrap"},
 		{ url:"www.miguvideo.com", node:"#miguvideo-player-wrap"},
 		{ url:"tv.sohu.com", node:"#player"},
 		{ url:"film.sohu.com", node:"#playerWrap"},
@@ -171,7 +171,7 @@
 		{ url:"www.bilibili.com", node:"#player_module"},
 		{ url:"vip.1905.com", node:"#player"},
 		{ url:"miguvideo.com", node:"#player"},
-		{ url:"mgtv.com", node:"#player"},
+		{ url:"www.mgtv.com", node:"#player"},
 	];
 	var newOriginalInterfaceList = originalInterfaceList;
 	try{
@@ -610,7 +610,7 @@
 				case 'www.miguvideo.com':
 					
 					break
-					case 'www.mgt.com':
+				case 'www.mgtv.com':
 					
 					break
 				case 'tv.sohu.com':
