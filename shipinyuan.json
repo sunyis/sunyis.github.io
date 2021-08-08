@@ -1,0 +1,13 @@
+[{"name":"云汇TV","api":"http://dnd.xmzht.cn:80//api.php/provide/vod/at/xml/",},
+{"name":"恐怖鸭","api":"https://kongbuya.com/api.php/provide/vod/at/xml/",},
+{"name":"片库","api":"https://pianku.wang/api.php/provide/vod/at/xml/",},
+{"name":"itono","api":"http://zy.itono.cn:80/inc/api.php",},
+{"name":"佳丽","api":"https://jialiapi.com/api.php/provide/vod/at/xml/",},
+{"name":"1024","api":"https://www.1024nf.com/api.php/provide/vod/at/xml/",},
+{"name":"全网","api":"http://video.liuslin.top/api.php/provide/vod/?aclist",},
+{"name":"辣椒","api":"http://api.11bat.com/api.php/provide/vod/at/xml/",},
+{"name":"视佳","api":"https://api.shijiapi.com/api.php/provide/vod/at/xml/",},
+{"name":"bapi","api":"https://lbapi9.com/api.php/provide/vod/at/xml/",},
+{"name":"鲨鱼","api":"https://shayuapi.com/api.php/provide/vod/at/xml/",},
+{"name":"丝袜","api":"https://www.siwazyw.com/api.php/provide/vod/at/xml/",}
+]
