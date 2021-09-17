@@ -86,14 +86,9 @@
 	//默认值，当网络请求出现错误时使用此值
 	var originalInterfaceList = [
 		{"name":"纯净解析","category":"1","url":"https://z1.m1907.cn/?jx="},
-		{"name":"江湖云","category":"1","url":"https://api.jhdyw.vip/?url="},		
+		{"name":"江湖云","category":"1","url":"https://api.jhdyw.vip/?url="},	
+		{"name":"4Z","category":"1","url":"https://jf.4z.cm/jx/?url="},			
 		{"name":"sujx","category":"1","url":"https://ssvip.sujx.top/?url="},
-		{"name":"浅月","category":"1","url":"http://qianyue.renrenmi.net:2025/yunhui/?url="},	
-		{"name":"千寻科技","category":"1","url":"http://xj.pk98.cn/?url="},		
-		{"name":"千寻时光","category":"1","url":"http://jx.jinyuen.com.cn/?url="},		
-		{"name":"aidouer","category":"1","url":"http://jx.aidouer.net/?url="},
-		{"name":"久播奇艺","category":"1","url":"https://jx.jiubojx.com:443/vip/?url="},				
-		{"name":"迪奥","category":"1","url":"http://123.1dior.cn/?url="},
 		{"name":"思古追剧","category":"1","url":"https://1.591zhuiju.com/?url="},		
 		{"name":"猪蹄","category":"1","url":"https://jx.iztyy.com/svip/?url="},
 		{"name":"优酷2","category":"1","url":"https://www.nxflv.com/?url="},
@@ -125,6 +120,7 @@
 
 		{"name":"纯净解析","category":"2","url":"https://z1.m1907.cn/?jx="},
 		{"name":"江湖云","category":"2","url":"https://api.jhdyw.vip/?url="},
+		{"name":"4Z","category":"2","url":"https://jf.4z.cm/jx/?url="},		
 		{"name":"sujx","category":"2","url":"https://ssvip.sujx.top/?url="},	
 		{"name":"千寻科技","category":"2","url":"http://xj.pk98.cn/?url="},	
 		{"name":"千寻时光","category":"2","url":"http://jx.jinyuen.com.cn/?url="},	
