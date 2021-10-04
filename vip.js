@@ -88,21 +88,22 @@
 		{"name":"纯净解析","category":"1","url":"https://z1.m1907.cn/?jx="},
 		{"name":"江湖云","category":"1","url":"https://api.jhdyw.vip/?url="},	
 		{"name":"4Z","category":"1","url":"https://jf.4z.cm/jx/?url="},
-		{"name":"kangjia","category":"1","url":"http://kuangjia.linankj.com/cs.php?url="},			
+		{"name":"kangjia","category":"1","url":"http://kuangjia.linankj.com/cs.php?url="},	
+		{"name":"sujx","category":"1","url":"https://ssvip.sujx.top/?url="},	
+		{"name":"猫猫","category":"1","url":"https://xj.greedycat.cn/?url="},                         
+		{"name":"宝具","category":"1","url":"http://meng.baoju.vip:2233/?url="},                         
+		{"name":"MW0","category":"1","url":"https://jx.mw0.cc/?url="},	
 		{"name":"云鸽","category":"1","url":"http://vip.yugenye.site/user/video/?url="},	
 		{"name":"人人迷","category":"1","url":"https://vip.renrenmi.cc:5566/user/video/?url="},					
 		{"name":"蓝猫","category":"1","url":"https://jiexi.daidaitv.top:43810/user/video/?url="},	
 		{"name":"浅月2","category":"1","url":"http://qianyue.renrenmi.net:2025/feiyang/?url="},	
-		{"name":"MW0","category":"1","url":"https://jx.mw0.cc/?url="},	
 		{"name":"人人","category":"1","url":"https://jx.renrenmi.cc/?url="},	
-		{"name":"sujx","category":"1","url":"https://ssvip.sujx.top/?url="},
 		{"name":"思古追剧","category":"1","url":"https://1.591zhuiju.com/?url="},		
 		{"name":"猪蹄","category":"1","url":"https://jx.iztyy.com/svip/?url="},
 		{"name":"优酷2","category":"1","url":"https://www.nxflv.com/?url="},
 		{"name":"B站解析1","category":"1","url":"https://vip.parwix.com:4433/player/?url="},
 		{"name":"B站解析2","category":"1","url":"https://www.cuan.la/m3u8.php?url="},	
 		{"name":"B站解析3","category":"1","url":"https://vip.parwix.com:4433/player/analysis.php?v="},				
-		{"name":"1717","category":"1","url":"https://www.1717yun.com/jx/ty.php?url="},                         
 		{"name":"星驰","category":"1","url":"https://vip.swuii.top/?url="},
 		{"name":"星驰2","category":"1","url":"https://vip.cjys.top/?url="},
 		{"name":"月亮","category":"1","url":"https://api.yueliangjx.com/?url="},
@@ -113,12 +114,10 @@
 		{"name":"小蒋","category":"1","url":"https://www.kpezp.cn/jlexi.php?url="},
 		{"name":"小狼云","category":"1","url":"https://jx.xiaolangyun.com/?url="},
 		{"name":"efuns","category":"1","url":"https://client.efuns.vip/?url="},
-		{"name":"大侠","category":"1","url":"https://api.10dy.net/?url="},
 		{"name":"Ckplayer","category":"1","url":"https://www.ckplayer.vip/jiexi/?url="},
 		{"name":"BL","category":"1","url":"https://vip.bljiex.com/?v="},
 		{"name":"4080","category":"1","url":"https://jx.70808.net/?url="},
 		{"name":"ok解析","category":"1","url":"http://okjx.cc/?url="},
-		{"name":"618解析","category":"1","url":"https://jx.618g.com/?url="},
 		{"name":"奇米","category":"1","url":"https://qimihe.com/?url="},	
 		{"name":"M3U8","category":"1","url":"https://jx.m3u8.tv/jiexi/?url="},
 		{"name":"bl解析","category":"1","url":"https://jx.ivito.cn/?url="},
@@ -129,25 +128,26 @@
 		{"name":"纯净解析","category":"2","url":"https://z1.m1907.cn/?jx="},
 		{"name":"江湖云","category":"2","url":"https://api.jhdyw.vip/?url="},	
 		{"name":"4Z","category":"2","url":"https://jf.4z.cm/jx/?url="},	
+		{"name":"MW0","category":"2","url":"https://jx.mw0.cc/?url="},	
+		{"name":"sujx","category":"2","url":"https://ssvip.sujx.top/?url="},
+		{"name":"猫猫","category":"2","url":"https://xj.greedycat.cn/?url="},                         
+		{"name":"宝具","category":"2","url":"http://meng.baoju.vip:2233/?url="},                         		
 		{"name":"蓝猫","category":"2","url":"https://jiexi.daidaitv.top:43810/user/video/?url="},		
 		{"name":"云鸽","category":"2","url":"http://vip.yugenye.site/user/video/?url="},	
 		{"name":"人人迷","category":"2","url":"https://vip.renrenmi.cc:5566/user/video/?url="},					
 		{"name":"kangjia","category":"2","url":"http://kuangjia.linankj.com/cs.php?url="},		
 		{"name":"浅月","category":"2","url":"http://qianyue.renrenmi.net:2025/yunhui/?url="},	
 		{"name":"浅月2","category":"2","url":"http://qianyue.renrenmi.net:2025/feiyang/?url="},	
-		{"name":"MW0","category":"2","url":"https://jx.mw0.cc/?url="},	
-		{"name":"人人","category":"2","url":"https://jx.renrenmi.cc/?url="},			
-		{"name":"sujx","category":"2","url":"https://ssvip.sujx.top/?url="},	
+		{"name":"人人","category":"2","url":"https://jx.renrenmi.cc/?url="},		
 		{"name":"千寻科技","category":"2","url":"http://xj.pk98.cn/?url="},	
 		{"name":"千寻时光","category":"2","url":"http://jx.jinyuen.com.cn/?url="},	
-		{"name":"aidouer","category":"2","url":"http://jx.aidouer.net/?url="},			
+		{"name":"aidouer","category":"2","url":"http://jx.aidouer.net/?url="},	
 		{"name":"久播奇艺","category":"2","url":"https://jx.jiubojx.com:443/vip/?url="},		
 		{"name":"迪奥","category":"2","url":"http://123.1dior.cn/?url="},	
 		{"name":"思古追剧","category":"2","url":"https://1.591zhuiju.com/?url="},	
 		{"name":"猪蹄","category":"2","url":"https://jx.iztyy.com/svip/?url="},
 		{"name":"鲨鱼","category":"2","url":"https://www.mgtv.com.favnow.com:443/?token=sharktv&v="},
-		{"name":"1717","category":"2","url":"https://www.1717yun.com/jx/ty.php?url="},                         
-		{"name":"星驰","category":"2","url":"https://vip.swuii.top/?url="},
+    	{"name":"星驰","category":"2","url":"https://vip.swuii.top/?url="},
 		{"name":"星驰2","category":"2","url":"https://vip.cjys.top/?url="},
 		{"name":"月亮","category":"2","url":"https://api.yueliangjx.com/?url="},
 		{"name":"全民","category":"2","url":"http://jx.quanmingjiexi.com/?url="},
@@ -161,12 +161,10 @@
 		{"name":"小蒋","category":"2","url":"https://www.kpezp.cn/jlexi.php?url="},
 		{"name":"小狼云","category":"2","url":"https://jx.xiaolangyun.com/?url="},
 		{"name":"efuns","category":"2","url":"https://client.efuns.vip/?url="},
-		{"name":"大侠","category":"2","url":"https://api.10dy.net/?url="},
 		{"name":"Ckplayer","category":"2","url":"https://www.ckplayer.vip/jiexi/?url="},
 		{"name":"BL","category":"2","url":"https://vip.bljiex.com/?v="},
 		{"name":"4080","category":"2","url":"https://jx.70808.net/?url="},
 		{"name":"ok解析","category":"2","url":"http://okjx.cc/?url="},
-		{"name":"618解析","category":"2","url":"https://jx.618g.com/?url="},
 		{"name":"奇米","category":"2","url":"https://qimihe.com/?url="},	
 		{"name":"M3U8","category":"2","url":"https://jx.m3u8.tv/jiexi/?url="},
 		{"name":"bl解析","category":"2","url":"https://jx.ivito.cn/?url="},
@@ -322,115 +320,85 @@
 											<div>
 												<div style='font-size:16px; text-align:center; color:#088A08; padding:5px 0px;'>高清电视测试节点[建议网速流畅观看]</div>
 												<ul>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv1hd">CCTV-1高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv2hd">CCTV-2高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv3hd">CCTV-3高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv4hd">CCTV-4高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv5hd">CCTV-5高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv6hd">CCTV-6高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv7hd">CCTV-7高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv8hd">CCTV-8高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv9hd">CCTV-9高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv10hd">CCTV-10高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv12hd">CCTV-12高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv14hd">CCTV-14高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv17hd">CCTV-17高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv1hd">北京卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv2hd">北京文艺高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv4hd">北京影视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv9hd">北京新闻高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv11hd">北京冬奥高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=hunanhd">湖南卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=zjhd">浙江卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=jshd">江苏卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=dfhd">东方卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=ahhd">安徽卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=hljhd">黑龙江卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=lnhd">辽宁卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=szhd">深圳卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=gdhd">广东卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=tjhd">天津卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=hbhd">湖北卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=sdhd">山东卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cqhd">重庆卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=dnhd">福建东南高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=schd">四川卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=hbhd">河北卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=jxhd">江西卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=hnhd">河南卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=gxhd">广西卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=jlhd">吉林卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=lyhd">海南卫视高清</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=gzhd">贵州卫视高清</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8">CCTV-1综合</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8">CCTV-2财经</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8">CCTV-3综艺</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8">CCTV-4国际</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8">CCTV-5高清</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8">CCTV-6电影</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8">CCTV-7军事</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8">CCTV-8电视剧</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8">CCTV-9纪录</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8">CCTV-10科教</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8">CCTV-11戏曲</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8">CCTV-12社会</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8">CCTV-13新闻</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8">CCTV-14少儿</a></li>																							<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8">CCTV-15高清</a></li>												
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8">CCTV-15音乐</a></li>
+													<li><a target="_blank" href="http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8">CCTV-17高清</a></li>													
+   												    <li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8">北京卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8">湖南卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8">浙江卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8">江苏卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8">东方卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8">安徽卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225658/index.m3u8">黑龙江卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8">辽宁卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8">深圳卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8">广东卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8">天津卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225705/index.m3u8">湖北卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225737/index.m3u8">山东卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8">重庆卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8">青海卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8">内蒙古卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8">新疆卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8">西藏卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8">安多卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8">康巴卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8">宁夏卫视高清</a></li>
+										     		<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8">甘肃卫视高清</a></li>												
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225621/index.m3u8">四川卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8">河北卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225615/index.m3u8">江西卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8">山西卫视高清</a></li>	
+											    	<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8">陕西卫视高清</a></li>
+										    		<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225636/index.m3u8">云南卫视高清</a></li>			
+													<li><a target="_blank" href="http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8">河南卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8">东南卫视高清</a></li>	
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225622/index.m3u8">广西卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225637/index.m3u8">吉林卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8">海南卫视高清</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8">贵州卫视高清</a></li>
 												</ul>
 											</div>
 											<div style="margin-top:15px;">
-												<div style='font-size:16px; text-align:center; color:#088A08; padding:5px 0px;'>普清电视测试节点[建议网速流畅观看]</div>
+												<div style='font-size:16px; text-align:center; color:#088A08; padding:5px 0px;'>其它电视节点</div>
 												<ul>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv1">CCTV-1综合</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv2">CCTV-2财经</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv3">CCTV-3综艺</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv4">CCTV-4国际</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv6">CCTV-6电影</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv7">CCTV-7军事</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv8">CCTV-8电视剧</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv9">CCTV-9纪录</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv10">CCTV-10科教</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv11">CCTV-11戏曲</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv12">CCTV-12社会</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv13">CCTV-13新闻</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv14">CCTV-14少儿</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv15">CCTV-15音乐</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv16">CGTN</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cctv17">CCTV-17农业</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv1">北京卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv2">北京文艺</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv3">北京科教</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv4">北京影视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv5">北京财经</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv7">北京生活</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv8">北京青年</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv9">北京新闻</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv10">北京卡酷少儿</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=btv11">北京冬奥纪实</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=zjtv">浙江卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=hunantv">湖南卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=jstv">江苏卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=dftv">东方卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=sztv">深圳卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=ahtv">安徽卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=hntv">河南卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=sxtv">陕西卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=jltv">吉林卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=gdtv">广东卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=sdtv">山东卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=hbtv">湖北卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=hebtv">河北卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=xztv">西藏卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=nmtv">内蒙古卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=qhtv">青海卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=sctv">四川卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=tjtv">天津卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=sxrtv">山西卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=lntv">辽宁卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=xmtv">厦门卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=xjtv">新疆卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=hljtv">黑龙江卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=yntv">云南卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=jxtv">江西卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=dntv">福建东南卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=gztv">贵州卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=nxtv">宁夏卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=gstv">甘肃卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cqtv">重庆卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=bttv">兵团卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=ybtv">延边卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=sstv">三沙卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=lytv">海南卫视</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=sdetv">山东教育</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cetv1">CETV-1</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cetv3">CETV-3</a></li>
-													<li><a target="_blank" href="http://ivi.bupt.edu.cn/player.html?channel=cetv4">CETV-4</a></li>
+													<li><a target="_blank" href="http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8">动漫秀场</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8">金鹰卡通</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8">KAKU少儿</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8">优漫卡通</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8">黑莓动画</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8">黑莓电影</a></li>												
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8">电视剧</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8">Newtv古装</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8">Newtv动作</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8">Newtv惊悚</a></li>
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8">Newtv军事</a></li>		
+													<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8">Newtv农业</a></li>											
+                                                	<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8">Newtv健康</a></li>	
+                                                	<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8">Newtv炫舞</a></li>																																																															
+                                                	<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8">Newtv欢乐剧场</a></li>											                                                											
+                                                	<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8">超级电影</a></li>											
+                                                	<li><a target="_blank" href="http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8">超级电视剧</a></li>											
+													<li><a target="_blank" href="http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8">劲爆体育</a></li>
+													<li><a target="_blank" href="http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8">魅力足球</a></li>
+													<li><a target="_blank" href="http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8">欢笑剧场</a></li>
+													<li><a target="_blank" href="http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8">法治天地</a></li>
+													<li><a target="_blank" href="http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8">七彩戏剧</a></li>
+													<li><a target="_blank" href="http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8">金色频道</a></li>
+													<li><a target="_blank" href="http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8">东方财经</a></li>
 												</ul>
 											</div>
 										</div>
