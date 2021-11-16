@@ -35,26 +35,21 @@ var apis = [{
         url: "https://api.duzheba.cn/?url=",
         title: "综合接口"
     }, {
-    }, {
         name: o + "解析六",
         url: "https://m2090.com/?url=",
         title: "综合接口"
-    }, {
     }, {
         name: o + "解析七",
         url: "https://api.okjx.cc:3389/jx.php?url=",
         title: "综合接口"
     }, {
-    }, {
         name: o + "解析八",
         url: "https://v.superchen.top:3389/index1.php?url=",
         title: "综合接口"
     }, {
-    }, {
         name: o + "解析九",
         url: "https://jiexi.xmflv.com:4399/?time=1637066951&url=",
         title: "综合接口"
-    }, {
     }, {
         name: o + "解析十",
         url: "https://m3u8.tv.8old.cn/jx.php?url=",
@@ -84,7 +79,6 @@ var apis = [{
         url: "https://jx.yemu.xyz/tj.php?referer=",
         title: "备用"
     }, {               
-    }, {          
        name: o + "备用七",
         url: "https://jx.renrenmi.cc/?url=",
         title: "备用"
