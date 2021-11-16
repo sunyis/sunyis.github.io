@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        无止境VIP解析，x浏览器，苹果Alook浏览器通用型。
-// @namespace 	 吃喝玩乐纯分享
+// @namespace  无止境 - wuzhij.com
 // @version      1.1
 // @description  安卓X浏览器直接安装使用。苹果Alook浏览器使用此脚本方法:点击安装此脚本后可见完整代码，全选复制备用，之后进设置/自定义设置/JavaScript扩展/添加/被动扩展，名称随意填写，将匹配类型修改为_链接网址，匹配值_*，运行时间不动。最后将代码完整的粘贴到JavaScript代码框内，保存后生效。解析接口失效后请自行到其他脚本内提取替换更新，遇到页面无法启动脚本时请自行增减域名。更新代码时切记:字符均为半角，编码格式为utf-8 切记!!!
 // @include *
@@ -20,42 +20,76 @@ var apis = [{
         title: "综合接口"
     }, {
         name: o + "解析二",
-        url: "http://jx.quanmingjiexi.com/?url=",
-        title: "综合接口"
-    }, {
-        name: o + "解析三",
-        url: "https://jx.renrenmi.cc/?url=",
-        title: "综合接口"
-    }, {
-        name: o + "解析四",
-        url: "https://jx.youyitv.com/?url=",
-        title: "综合接口"
-    }, {
-        name: o + "解析五",
         url: "https://okjx.cc/?url=",
         title: "综合接口"
     }, {
-       name: o + "备用一",
+        name: o + "解析三",        
         url: "https://jxjx1920.jushiys.co/?url=",
+        title: "综合接口"
+    }, {
+        name: o + "解析四",
+        url: "https://www.1717yun.com/jiexi/?url=",
+        title: "综合接口"
+    }, {
+        name: o + "解析五",
+        url: "https://api.duzheba.cn/?url=",
+        title: "综合接口"
+    }, {
+    }, {
+        name: o + "解析六",
+        url: "https://m2090.com/?url=",
+        title: "综合接口"
+    }, {
+    }, {
+        name: o + "解析七",
+        url: "https://api.okjx.cc:3389/jx.php?url=",
+        title: "综合接口"
+    }, {
+    }, {
+        name: o + "解析八",
+        url: "https://v.superchen.top:3389/index1.php?url=",
+        title: "综合接口"
+    }, {
+    }, {
+        name: o + "解析九",
+        url: "https://jiexi.xmflv.com:4399/?time=1637066951&url=",
+        title: "综合接口"
+    }, {
+    }, {
+        name: o + "解析十",
+        url: "https://m3u8.tv.8old.cn/jx.php?url=",
+        title: "综合接口"
+    }, {
+       name: o + "备用一",
+        url: "https://www.cuan.la/m3u8.php?url=",
         title: "备用"
     }, {
        name: o + "备用二",
-        url: "https://jx.m3u8.tv/jiexi/?url=",
+        url: "https://www.kpezp.cn/jlexi.php?url=",
         title: "备用"
-    }, {
+    }, {   
        name: o + "备用三",
-        url: "https://jx.mw0.cc/?url=",
+        url: "https://api.jhdyw.vip/?url=",
         title: "备用"
     }, {
        name: o + "备用四",
-        url: "http://kuangjia.linankj.com/cs.php?url=",
+        url: "https://17kyun.com/jx.php?url=",
         title: "备用"
-    }, {
+    }, {          
        name: o + "备用五",
-        url: "https://jx.xiaolangyun.com/?url=",
+        url: "https://sw.sxdykj.top/ad9.php/?from=https://jx.m3u8.tv/jiexi/?url=",
         title: "备用"
+    }, {         
+       name: o + "备用六",
+        url: "https://jx.yemu.xyz/tj.php?referer=",
+        title: "备用"
+    }, {               
+    }, {          
+       name: o + "备用七",
+        url: "https://jx.renrenmi.cc/?url=",
+        title: "备用"
+    }, {               
     }];
-
 
 //添加链接
 
