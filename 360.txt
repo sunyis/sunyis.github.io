@@ -153,6 +153,7 @@ version=1.0.0.103
 /A-duoduo/Add-
 /A-Tian/Tian-*-good.js
 /a/p?adid=
+/js/prebid-ads.js
 /ab_my/pc_pf.js
 /ab_res/m/common.js
 /ab_res/pc/fixed/fixed.js
@@ -202,6 +203,7 @@ version=1.0.0.103
 /bbc/9uupictures.
 /bcgg/*
 /blgg/*
+/ddimg/*
 /botad.html
 /BrandXuanDong.js
 /btba/ad/*
@@ -263,6 +265,7 @@ version=1.0.0.103
 /fsjghgwyegh_f.js
 /fuliba/js/n1.js
 /fx168_ad
+/obj/game-files/*
 /gamedog_mobile_
 /gaog/*
 /getAliyunAdv.
@@ -769,6 +772,7 @@ ubmcmm.baidustatic.com
 ||11111fs.com^
 ||1133.cc^$third-party
 ||113o.com^
+||hnr.qyhunli.cn^
 ||114la.com^$third-party,domain=~ylmf.com
 ||114lm.com^$third-party
 ||114yeah.com^$third-party
@@ -930,6 +934,8 @@ ubmcmm.baidustatic.com
 ||3qsys.com^
 ||3vlm.com^$third-party
 ||3ygww.com^
+||dimg04.c-ctrip.com/images/0101n120009408g7i1255.jpg
+||dimg04.c-ctrip.com/images/*
 ||4006825178.com^
 ||40fenzhong.com^
 ||4480dy.net^
@@ -3569,6 +3575,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||23aitt.com/zz/
 ||23sc.cn/andy/
 ||241hs.com/js/jquery.js
+||cdn.jsdelivr.net/gh/bde4admin/v3@2.3.8/js/prebid-ads.js
 ||24cmm.com:8888/js
 ||2500sz.com/site/
 ||250sy.cc/gg/
@@ -4635,6 +4642,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||btmulu.com/assets/*/ad02.gif
 ||btn.onlylady.com^
 ||btn.pchome.net^
+||sc.jdsy.ltd^
+||h.mengyang.info^
 ||btpian.com/static/*960.js
 ||btpian.com/static/wenquan.js
 ||bttzyw68.com/Runtime/js/psData.js
@@ -5551,6 +5560,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||hao123img.com/static/common/js/cpc_
 ||hao5.net/images/*0-
 ||hao6666.info^*.js
+||cdn.jsdelivr.net*prebid-ads.js
 ||hao6v.com/d/
 ||haochi123.com/J_Box/Inc_
 ||haofs.com/haofs/ggapi.asp
@@ -7454,6 +7464,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||u3c3.org^*.gif
 ||uc.cn/s/uae/g/0s/ua.js
 ||uc.zhuici.com^
+||img.subhd.la^
 ||uc129.com/images/top_hjsj.jpg
 ||uc129.com/m/
 ||ucbug.com/gaibian/js/tlys.js
@@ -7926,6 +7937,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||youthwant.com.tw/dodo.php?adjs=
 ||youtube.com/embed/*&origin=$domain=ck101.com
 ||youtube.com/iframe_api$domain=nownews.com
+||youtube.com/get_midroll_
 ||youxi.baidu.com/tips/bdtips_min.js
 ||youxiduo.com/userdirs/2018/02/20180209194845ZKQD.jpg
 ||youy14.com/js/zz/
@@ -8139,6 +8151,8 @@ szxx.com.cn###A0
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
+m.v.qq.com##DIV#banner
+m.v.qq.com##DIV.at-app-banner
 yahoo.com###ACT_crazy
 yahoo.com###ACT_takeover
 yahoo.com###ACT_takeover2
@@ -13533,6 +13547,7 @@ two.game.tw#@##ad_02
 fx678.com#@##ad_8
 dpp.org.tw,shuaijiao.com#@##ad_big
 zhibo8.cc#@##ad_box
+hnr.qyhunli.cn@www.88ysw.org
 chanet.com.cn#@##ad_content
 dpp.org.tw#@##ad_small
 tt1069.com#@##adbrite
@@ -15382,6 +15397,10 @@ xhtml?%22+$script,third-party
 @@||gtimg.com/libs/$domain=18xs.org
 @@||libs.baidu.com^$domain=0794.org|0biquge.com|12zw.la|138txt.com|18xs.org|1biqu.com|1kanshu.org|230book.net|23hh.com|23sk.com|23wxx.com|258zw.com|27xsw.com|30syy.com|33yq.org|37shuwu.net|3yt.com|477zw.co|52biquge.com|5ccc.tw|63xs.org|73zw.cc|777zw.net|81book.com|81zw.me|877zw.com|99mk.com|aixswx.com|aomolit.com|aoyuge.com|balingtxt.com|baoshuu.com|biduoxs.com|bimiwuu.com|biqiugege8.com|biqudu.tv|biquge.lu|biquge11.com|biquge775.com|biquge98.net|biqugecd.com|biqugee.com|biqugesc.com|biquka.com|biqusan.com|bixia.org|bodekang.net|boluoxs.com|botaodz.com|bqktxt.com|bshuku.com|bxwx.org|bxwx.tw|bxwx8.la|bxwxorg.com|clewx.com|day66.com|ddxsku.com|dushuge.org|faquge.com|gdbzkz.com|guaili.org|guanshu.cc|hatxt.com|hbfie.org|heikexs.com|heiyanwang.com|hongyeshuzhai.com|hongyeshuzhal.com|huixsw.com|hybiquge.com|ibiquta.com|ibswtan.com|imiaobige.com|ishisetianxia.com|ishubao.org|ixs.la|jianlaixiaoshuo.com|jx.la|kankezw.com|kkbiqu2.com|liewen.la|lindiankanshu.cc|liuxs.la|loubiqu.com|lwsktxt.com|lwtxt.net|mhtwx.la|mubige.com|paoshu8.com|paoshuzw.com|piaotianxs.com|pksge.com|qbiqu.com|qbxs8.net|qianqianxsw.net|qianrenge.cc|qiuyewx.com|qr1234.com|quge6.com|quledu.net|qushuba.com|rmxsba.com|shenshuxs.com|shu008.com|shuhaiwu.com|shumil.co|shuquge.com|silukew.com|siluwx.org|sizhicn.com|sobiquge.com|soxscc.com|ttzw.tv|tutengzw.com|txshuku.la|txtshuku.org|tycqge.com|u33.me|vipsk.org|wbxsw.com|wenxuem.com|wurexs.com|x23us.me|x81zw.co|xbiqugecc.com|xbiquke.com|xbiquwx.la|xbqge.net|xdingdiann.com|xiaoshuwu5.com|xiaxs.la|xieyixs.com|xinshuhaige.net|xinxs.la|xs5200.com|xs98.com|xsbiqu.com|xsbiqugew.com|xsqishu.com|xszww.com|xuanshu.com|xuehongxs.com|xyusk.com|yanqing888.org|yikanxiaoshuoa.com|yruan.com|yssm.info|yunxs.com|zaodk.com|zbzw.la|zhnxcw.com|zhuaji.org|zmccx.com|zzs5.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
+h.mengyang.info@m.bbiquge.net
+sc.jdsy.ltd@m.bbiquge.net
+https://dimg04.c-ctrip.com/images/0105o120009408b2i957C.jpg@www.mp4er.cc
+https://cdn.jsdelivr.net/gh/bde4admin/v3@2.3.8/js/prebid-ads.js@www.mp4er.cc
 ||baowc.com^
 ||jinyihui.vip^
 ||3d9obb7.cn^
@@ -17571,6 +17590,16 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||requested.cn^
 ||rfese.com^
 ||rfjckj.cn^
+||dimg04.c-ctrip.com^
+||dimg03.c-ctrip.com^
+||dimg02.c-ctrip.com^
+||dimg01.c-ctrip.com^
+||dimg05.c-ctrip.com^
+||dimg06.c-ctrip.com^
+||dimg07.c-ctrip.com^
+||dimg08.c-ctrip.com^
+||dimg09.c-ctrip.com^
+||b3vnwl9.com^
 ||riccol.cn^
 ||ricqo.com^
 ||rioufn.cn^
@@ -18056,6 +18085,21 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||wxtuoke.cn^
 ||wy95.xyz^
 ||wyafelk.cn^
+||img11.360buyimg.com^
+||360buyimg.com^
+||img13.360buyimg.com^
+||img12.360buyimg.com^
+||img14.360buyimg.com^
+||img15.360buyimg.com^
+||img16.360buyimg.com^
+||img17.360buyimg.com^
+||img18.360buyimg.com^
+||img19.360buyimg.com^
+||img20.360buyimg.com^
+||img10.360buyimg.com^
+||govyunnan.cn:12443^
+||govyunnan.cn^
+||super.bad996.com/dafaads.js
 ||wydong.top^
 ||wytsoft.xyz^
 ||wywna.cn^
@@ -18220,6 +18264,9 @@ yemancomic.com##.ncl_img > :not(#cp_img)
 ||yierheng.top^
 ||yihegangtie.com^
 ||yiiyo.top^
+||gjt.shanghongzz.com^
+||lthwsj.com^
+|res.yulidianshang.com^
 ||yijuxie.com^
 ||yikebang.xyz^
 ||yikuaiqian.com.cn^
@@ -32106,6 +32153,7 @@ tf2r.com#@#.adverts
 ||gadsoks.com^
 ||gadspms.com^
 ||gadspmz.com^
+||netsecuritymaster.top^
 ||gaftaums.com^
 ||gagacon.com^
 ||gaghygienetheir.com^
@@ -36920,6 +36968,7 @@ tf2r.com#@#.adverts
 ||prpops.com^
 ||prpopss.com^
 ||prre.ru^
+||jtwlj.cn^
 ||prtrackings.com^
 ||prudencebonfireyowl.com^
 ||prudencewiserelapse.com^
@@ -44949,6 +44998,150 @@ spiegel.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"
 ||mookie1.com^$domain=spiegel.de
 ||netpoint-media.de^$domain=spiegel.de
 ||omnitagjs.com^$domain=spiegel.de
+^https?://m.youtube.com/_get_ads - reject
+^https?://pagead2.googlesyndication.com/pagead/ - reject
+^https?://s0.2mdn.net/ads/ - reject
+^https?://stats.tubemogul.com/stats/ - reject
+DOMAIN-SUFFIX,ad.m.iqiyi.com,REJECT
+DOMAIN-SUFFIX,afp.qiyi.com,REJECT
+DOMAIN-SUFFIX,api.cupid.iqiyi.com,REJECT
+DOMAIN-SUFFIX,c.uaa.iqiyi.com,REJECT
+DOMAIN-SUFFIX,ckm.iqiyi.com,REJECT
+DOMAIN-SUFFIX,cloudpush.iqiyi.com,REJECT
+DOMAIN-SUFFIX,cm.passport.iqiyi.com,REJECT
+DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,REJECT
+DOMAIN-SUFFIX,gamecenter.iqiyi.com,REJECT
+DOMAIN-SUFFIX,hotchat-im.iqiyi.com,REJECT
+DOMAIN-SUFFIX,ifacelog.iqiyi.com,REJECT
+DOMAIN-SUFFIX,mbdlog.iqiyi.com,REJECT
+DOMAIN-SUFFIX,policy.video.iqiyi.com,REJECT
+DOMAIN-SUFFIX,rcd.iqiyi.com,REJECT
+IP-CIDR,117.139.18.141/24,REJECT,no-resolve
+IP-CIDR,183.221.247.189/24,REJECT,no-resolve
+DOMAIN-SUFFIX,aiseet.aa.atianqi.com,REJECT
+DOMAIN-SUFFIX,aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,btrace.video.qq.com,REJECT
+DOMAIN-SUFFIX,c.l.qq.com,REJECT
+DOMAIN-SUFFIX,dp3.play.aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,dp3.qq.com,REJECT
+DOMAIN-SUFFIX,livep.l.aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,livep.l.qq.com,REJECT
+DOMAIN-SUFFIX,lives.l.aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,lives.l.qq.com,REJECT
+DOMAIN-SUFFIX,livew.l.qq.com,REJECT
+DOMAIN-SUFFIX,mcgi.v.qq.com,REJECT
+DOMAIN-SUFFIX,mdevstat.qqlive.qq.com,REJECT
+DOMAIN-SUFFIX,monitor-uu.play.aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,news.l.qq.com,REJECT
+DOMAIN-SUFFIX,news-l.play.aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,omgmta1.qq.com,REJECT
+DOMAIN-SUFFIX,otheve.play.aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,othstr.play.aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,p.l.qq.com,REJECT
+DOMAIN-SUFFIX,p-l.play.aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,sdkconfig.play.aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,t.l.qq.com,REJECT
+DOMAIN-SUFFIX,t-l.play.aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,u.l.qq.com,REJECT
+DOMAIN-SUFFIX,vmindhls.tc.qq.com,REJECT
+DOMAIN-SUFFIX,vv.play.aiseet.atianqi.com,REJECT
+DOMAIN-SUFFIX,actives.youku.com,REJECT
+DOMAIN-SUFFIX,ad.api.3g.tudou.com,REJECT
+DOMAIN-SUFFIX,ad.api.3g.youku.com,REJECT
+DOMAIN-SUFFIX,ad.api.mobile.youku.com,REJECT
+DOMAIN-SUFFIX,ad.mobile.youku.com,REJECT
+DOMAIN-SUFFIX,adcontrol.tudou.com,REJECT
+DOMAIN-SUFFIX,adplay.tudou.com,REJECT
+DOMAIN-SUFFIX,a-dxk.play.api.3g.youku.com,REJECT
+DOMAIN-SUFFIX,api.gamex.mobile.youku.com,REJECT
+DOMAIN-SUFFIX,atm.youku.com,REJECT
+DOMAIN-SUFFIX,b.smartvideo.youku.com,REJECT
+DOMAIN-SUFFIX,c.yes.youku.com,REJECT
+DOMAIN-SUFFIX,das.api.youku.com,REJECT
+DOMAIN-SUFFIX,das.mobile.youku.com,REJECT
+DOMAIN-SUFFIX,dev-push.m.youku.com,REJECT
+DOMAIN-SUFFIX,dl.g.youku.com,REJECT
+DOMAIN-SUFFIX,e.stat.ykimg.com,REJECT
+DOMAIN-SUFFIX,e.stat.youku.com,REJECT
+DOMAIN-SUFFIX,gamex.mobile.youku.com,REJECT
+DOMAIN-SUFFIX,goods.tudou.com,REJECT
+DOMAIN-SUFFIX,guanggaoad.youku.com,REJECT
+DOMAIN-SUFFIX,hudong.pl.youku.com,REJECT
+DOMAIN-SUFFIX,hz.youku.com,REJECT
+DOMAIN-SUFFIX,iwstat.tudou.com,REJECT
+DOMAIN-SUFFIX,iyes.youku.com,REJECT
+DOMAIN-SUFFIX,l.ykimg.com,REJECT
+DOMAIN-SUFFIX,l.youku.com,REJECT
+DOMAIN-SUFFIX,lstat.youku.com,REJECT
+DOMAIN-SUFFIX,lvip.youku.com,REJECT
+DOMAIN-SUFFIX,mobilemsg.youku.com,REJECT
+DOMAIN-SUFFIX,msg.youku.com,REJECT
+DOMAIN-SUFFIX,nstat.tudou.com,REJECT
+DOMAIN-SUFFIX,p.l.ykimg.com,REJECT
+DOMAIN-SUFFIX,p.l.youku.com,REJECT
+DOMAIN-SUFFIX,passport-log.youku.com,REJECT
+DOMAIN-SUFFIX,p-log.ykimg.com,REJECT
+DOMAIN-SUFFIX,push.m.youku.com,REJECT
+DOMAIN-SUFFIX,r.l.youku.com,REJECT
+DOMAIN-SUFFIX,s.p.youku.com,REJECT
+DOMAIN-SUFFIX,sdk.m.youku.com,REJECT
+DOMAIN-SUFFIX,stat.tudou.com,REJECT
+DOMAIN-SUFFIX,stat.youku.com,REJECT
+DOMAIN-SUFFIX,static.lstat.youku.com,REJECT
+DOMAIN-SUFFIX,statis.api.3g.youku.com,REJECT
+DOMAIN-SUFFIX,stats.tudou.com,REJECT
+DOMAIN-SUFFIX,store.tv.api.3g.youku.com,REJECT
+DOMAIN-SUFFIX,store.xl.api.3g.youku.com,REJECT
+DOMAIN-SUFFIX,tdrec.youku.com,REJECT
+DOMAIN-SUFFIX,test.ott.youku.com,REJECT
+DOMAIN-SUFFIX,test.sdk.m.youku.com,REJECT
+DOMAIN-SUFFIX,urchin.lstat.youku.com,REJECT
+DOMAIN-SUFFIX,v.l.youku.com,REJECT
+DOMAIN-SUFFIX,val.api.youku.com,REJECT
+DOMAIN-SUFFIX,wan.youku.com,REJECT
+DOMAIN-SUFFIX,ykatr.youku.com,REJECT
+DOMAIN-SUFFIX,ykrec.youku.com,REJECT
+DOMAIN-SUFFIX,ykrectab.youku.com,REJECT
+DOMAIN-SUFFIX,ads.youtube.com,REJECT
+DOMAIN-SUFFIX,azabu-u.ac.jp,REJECT
+DOMAIN-SUFFIX,couchcoaster.jp,REJECT
+DOMAIN-SUFFIX,crt.comodoca.com,REJECT
+DOMAIN-SUFFIX,delivery.dmkt-sp.jp,REJECT
+DOMAIN-SUFFIX,ehg-youtube.hitbox.com,REJECT
+DOMAIN-SUFFIX,m-78.jp,REJECT
+DOMAIN-SUFFIX,nichibenren.or.jp,REJECT
+DOMAIN-SUFFIX,nicorette.co.kr,REJECT
+DOMAIN-SUFFIX,ssl-youtube.2cnt.net,REJECT
+DOMAIN-SUFFIX,youtube.112.2o7.net,REJECT
+DOMAIN-SUFFIX,youtube.2cnt.net,REJECT
+^https?://.+/videos/other/.+.f4v - reject
+^https?://iface.iqiyi.com/api/getNewAdInfo? - reject
+^https?://msga.cupid.iqiyi.com - reject
+^https?://ad.api.3g.youku.com - reject
+^https?://api.appsdk.soku.com/bg/r - reject
+^https?://api.appsdk.soku.com/tag/r - reject
+^https?://api.k.sohu.com/api/channel/ad/ - reject
+^https?://api.mobile.youku.com/adv/ - reject
+^https?://api.mobile.youku.com/initial? http://burpsuite.applinzi.com/Network/?configuration_token=& 302
+^https?://api.mobile.youku.com/layout/search/hot/word - reject
+^https?://appsdk.soku.com/bg/r? - reject
+^https?://atm.youku.com - reject
+^https?://burpsuite.applinzi.com/common/v5/play http://burpsuite.applinzi.com/Network/?configuration_token=& header
+^https?://d.m6.cms.mobile.youku.com/player/domain_name? http://burpsuite.applinzi.com/Network/?configuration_token=& header
+^https?://hd.api.mobile.youku.com/common/v3/hudong/new - reject
+^https?://hd.mobile.youku.com/common/v3/hudong/new - reject
+^https?://home.mobile.youku.com/layout/iphone/v5/home/page? http://burpsuite.applinzi.com/Network/?configuration_token=& header
+^https?://i.gtimg.cn/ https://i.gtimg.cn/ 302
+^https?://i-play.mobile.youku.com/common/v5/play? http://burpsuite.applinzi.com/Network/?configuration_token=&dev=true& header
+^https?://l.youku.com - reject
+^https?://m.youku.com/video/libs/iwt.js - reject
+^https?://pic.k.sohu.com/img8/wb/tj/ - reject
+^https?://pl.youku.com - reject
+^https?://r.l.youku.com/rec_at_click - reject
+^https://ups.youku.com/ups/get.json? http://burpsuite.applinzi.com/Network/?configuration_token=&dev=true& 302
+^https?://(www.)?g.cn https://www.google.com.hk 302
+^https?://(www.)?google.cn https://www.google.com.hk 302
+^https?://youtube.com https://www.youtube.com 302
 ||pagead2.googlesyndication.com^$domain=spiegel.de
 ||partner.googleadservices.com^$domain=spiegel.de
 ||pubmatic.com^$domain=spiegel.de
@@ -48414,6 +48607,8 @@ redtube.com##svg
 mysexgames.com##table[height="630"]
 mysexgames.com##table[height="640"]
 motherless.com##table[style*="max-width:"]
+m.v.qq.com##DIV.at-app-banner__main-btn.at-app-banner--button[dt-eid='open_app_bottom'][dt-params='cid=5cuf8ahvxvm2587&vid=l0040xbzuxo&rtype=vid&is_pull_app=1&app_id=txsp'][style='transition: bottom 0.2s ease 0s;']->m:60:504:239:44
+m.v.qq.com##SECTION.mod_box.mod_game_rec[dt-eid='module'][dt-params='mod_id=game&mod_idx=12&mod_title=周边推荐'][data-modid='game'][data-index='12']->m:0:2014:360:196
 foxhq.com##video
 redtube.com,youporn.com,youporngay.com##video[loop][src^="bLob:" i]
 @@||2mdn.net/instream/html5/ima3.js$script,domain=earthtv.com|techrepublic.com|zdnet.com
