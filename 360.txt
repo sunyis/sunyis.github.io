@@ -546,6 +546,150 @@ version=1.0.0.103
 /zz/zuoxia2.txt
 /zzhzgg.js
 /zzzz/assets/js/common/discor_list.js
+||m.youtube.com/_get_ads
+||pagead2.googlesyndication.com/pagead/
+||s0.2mdn.net/ads/
+||stats.tubemogul.com/stats/
+||ad.m.iqiyi.com
+||afp.qiyi.com
+||api.cupid.iqiyi.com
+||c.uaa.iqiyi.com
+||ckm.iqiyi.com
+||cloudpush.iqiyi.com
+||cm.passport.iqiyi.com
+||emoticon.sns.iqiyi.com
+||gamecenter.iqiyi.com
+||hotchat-im.iqiyi.com
+||ifacelog.iqiyi.com
+||mbdlog.iqiyi.com
+||policy.video.iqiyi.com
+||rcd.iqiyi.com
+||aiseet.aa.atianqi.com
+||aiseet.atianqi.com
+||btrace.video.qq.com
+||c.l.qq.com
+||dp3.play.aiseet.atianqi.com
+||dp3.qq.com
+||livep.l.aiseet.atianqi.com
+||livep.l.qq.com
+||lives.l.aiseet.atianqi.com
+||lives.l.qq.com
+||livew.l.qq.com
+||mcgi.v.qq.com
+||mdevstat.qqlive.qq.com
+||monitor-uu.play.aiseet.atianqi.com
+||news.l.qq.com
+||news-l.play.aiseet.atianqi.com
+||omgmta1.qq.com
+||otheve.play.aiseet.atianqi.com
+||othstr.play.aiseet.atianqi.com
+||p.l.qq.com
+||p-l.play.aiseet.atianqi.com
+||sdkconfig.play.aiseet.atianqi.com
+||t.l.qq.com
+||t-l.play.aiseet.atianqi.com
+||u.l.qq.com
+||vmindhls.tc.qq.com
+||vv.play.aiseet.atianqi.com
+||actives.youku.com
+||ad.api.3g.tudou.com
+||ad.api.3g.youku.com
+||ad.api.mobile.youku.com
+||ad.mobile.youku.com
+||adcontrol.tudou.com
+||adplay.tudou.com
+||a-dxk.play.api.3g.youku.com
+||api.gamex.mobile.youku.com
+||atm.youku.com
+||b.smartvideo.youku.com
+||c.yes.youku.com
+||das.api.youku.com
+||das.mobile.youku.com
+||dev-push.m.youku.com
+||dl.g.youku.com
+||e.stat.ykimg.com
+||e.stat.youku.com
+||gamex.mobile.youku.com
+||goods.tudou.com
+||guanggaoad.youku.com
+||hudong.pl.youku.com
+||hz.youku.com
+||iwstat.tudou.com
+||iyes.youku.com
+||l.ykimg.com
+||l.youku.com
+||lstat.youku.com
+||lvip.youku.com
+||mobilemsg.youku.com
+||msg.youku.com
+||nstat.tudou.com
+||p.l.ykimg.com
+||p.l.youku.com
+||passport-log.youku.com
+||p-log.ykimg.com
+||push.m.youku.com
+||r.l.youku.com
+||s.p.youku.com
+||sdk.m.youku.com
+||stat.tudou.com
+||stat.youku.com
+||static.lstat.youku.com
+||statis.api.3g.youku.com
+||stats.tudou.com
+||store.tv.api.3g.youku.com
+||store.xl.api.3g.youku.com
+||tdrec.youku.com
+||test.ott.youku.com
+||test.sdk.m.youku.com
+||urchin.lstat.youku.com
+||v.l.youku.com
+||val.api.youku.com
+||wan.youku.com
+||ykatr.youku.com
+||ykrec.youku.com
+||ykrectab.youku.com
+||ads.youtube.com
+||azabu-u.ac.jp
+||couchcoaster.jp
+||crt.comodoca.com
+||delivery.dmkt-sp.jp
+||ehg-youtube.hitbox.com
+||m-78.jp
+||nichibenren.or.jp
+||nicorette.co.kr
+||ssl-youtube.2cnt.net
+||youtube.112.2o7.net
+||youtube.2cnt.net
+||.+/videos/other/.+.f4v
+||iface.iqiyi.com/api/getNewAdInfo?
+||msga.cupid.iqiyi.com
+||ad.api.3g.youku.com
+||api.appsdk.soku.com/bg/r
+||api.appsdk.soku.com/tag/r
+||api.k.sohu.com/api/channel/ad/
+||api.mobile.youku.com/adv/
+||api.mobile.youku.com/initial? 
+||burpsuite.applinzi.com/Network/?configuration_token=& 302
+||api.mobile.youku.com/layout/search/hot/word
+||appsdk.soku.com/bg/r?
+||atm.youku.com
+||burpsuite.applinzi.com/common/v5/play 
+||burpsuite.applinzi.com/Network/?configuration_token=& header
+||d.m6.cms.mobile.youku.com/player/domain_name? 
+||burpsuite.applinzi.com/Network/?configuration_token=& header
+||hd.api.mobile.youku.com/common/v3/hudong/new
+||hd.mobile.youku.com/common/v3/hudong/new
+||home.mobile.youku.com/layout/iphone/v5/home/page? 
+||burpsuite.applinzi.com/Network/?configuration_token=& header
+||i.gtimg.cn/ https://i.gtimg.cn/ 302
+||i-play.mobile.youku.com/common/v5/play? 
+||burpsuite.applinzi.com/Network/?configuration_token=&dev=true& header
+||l.youku.com
+||m.youku.com/video/libs/iwt.js
+||pic.k.sohu.com/img8/wb/tj/
+||pl.youku.com
+||r.l.youku.com/rec_at_click
+||ups.youku.com/ups/get.json
 ://*.tv/ad/$domain=~moviedj.tv
 :1010/openV5.js
 :2048/b.js
@@ -44998,150 +45142,6 @@ spiegel.de##a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"
 ||mookie1.com^$domain=spiegel.de
 ||netpoint-media.de^$domain=spiegel.de
 ||omnitagjs.com^$domain=spiegel.de
-^https?://m.youtube.com/_get_ads - reject
-^https?://pagead2.googlesyndication.com/pagead/ - reject
-^https?://s0.2mdn.net/ads/ - reject
-^https?://stats.tubemogul.com/stats/ - reject
-DOMAIN-SUFFIX,ad.m.iqiyi.com,REJECT
-DOMAIN-SUFFIX,afp.qiyi.com,REJECT
-DOMAIN-SUFFIX,api.cupid.iqiyi.com,REJECT
-DOMAIN-SUFFIX,c.uaa.iqiyi.com,REJECT
-DOMAIN-SUFFIX,ckm.iqiyi.com,REJECT
-DOMAIN-SUFFIX,cloudpush.iqiyi.com,REJECT
-DOMAIN-SUFFIX,cm.passport.iqiyi.com,REJECT
-DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,REJECT
-DOMAIN-SUFFIX,gamecenter.iqiyi.com,REJECT
-DOMAIN-SUFFIX,hotchat-im.iqiyi.com,REJECT
-DOMAIN-SUFFIX,ifacelog.iqiyi.com,REJECT
-DOMAIN-SUFFIX,mbdlog.iqiyi.com,REJECT
-DOMAIN-SUFFIX,policy.video.iqiyi.com,REJECT
-DOMAIN-SUFFIX,rcd.iqiyi.com,REJECT
-IP-CIDR,117.139.18.141/24,REJECT,no-resolve
-IP-CIDR,183.221.247.189/24,REJECT,no-resolve
-DOMAIN-SUFFIX,aiseet.aa.atianqi.com,REJECT
-DOMAIN-SUFFIX,aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,btrace.video.qq.com,REJECT
-DOMAIN-SUFFIX,c.l.qq.com,REJECT
-DOMAIN-SUFFIX,dp3.play.aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,dp3.qq.com,REJECT
-DOMAIN-SUFFIX,livep.l.aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,livep.l.qq.com,REJECT
-DOMAIN-SUFFIX,lives.l.aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,lives.l.qq.com,REJECT
-DOMAIN-SUFFIX,livew.l.qq.com,REJECT
-DOMAIN-SUFFIX,mcgi.v.qq.com,REJECT
-DOMAIN-SUFFIX,mdevstat.qqlive.qq.com,REJECT
-DOMAIN-SUFFIX,monitor-uu.play.aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,news.l.qq.com,REJECT
-DOMAIN-SUFFIX,news-l.play.aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,omgmta1.qq.com,REJECT
-DOMAIN-SUFFIX,otheve.play.aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,othstr.play.aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,p.l.qq.com,REJECT
-DOMAIN-SUFFIX,p-l.play.aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,sdkconfig.play.aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,t.l.qq.com,REJECT
-DOMAIN-SUFFIX,t-l.play.aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,u.l.qq.com,REJECT
-DOMAIN-SUFFIX,vmindhls.tc.qq.com,REJECT
-DOMAIN-SUFFIX,vv.play.aiseet.atianqi.com,REJECT
-DOMAIN-SUFFIX,actives.youku.com,REJECT
-DOMAIN-SUFFIX,ad.api.3g.tudou.com,REJECT
-DOMAIN-SUFFIX,ad.api.3g.youku.com,REJECT
-DOMAIN-SUFFIX,ad.api.mobile.youku.com,REJECT
-DOMAIN-SUFFIX,ad.mobile.youku.com,REJECT
-DOMAIN-SUFFIX,adcontrol.tudou.com,REJECT
-DOMAIN-SUFFIX,adplay.tudou.com,REJECT
-DOMAIN-SUFFIX,a-dxk.play.api.3g.youku.com,REJECT
-DOMAIN-SUFFIX,api.gamex.mobile.youku.com,REJECT
-DOMAIN-SUFFIX,atm.youku.com,REJECT
-DOMAIN-SUFFIX,b.smartvideo.youku.com,REJECT
-DOMAIN-SUFFIX,c.yes.youku.com,REJECT
-DOMAIN-SUFFIX,das.api.youku.com,REJECT
-DOMAIN-SUFFIX,das.mobile.youku.com,REJECT
-DOMAIN-SUFFIX,dev-push.m.youku.com,REJECT
-DOMAIN-SUFFIX,dl.g.youku.com,REJECT
-DOMAIN-SUFFIX,e.stat.ykimg.com,REJECT
-DOMAIN-SUFFIX,e.stat.youku.com,REJECT
-DOMAIN-SUFFIX,gamex.mobile.youku.com,REJECT
-DOMAIN-SUFFIX,goods.tudou.com,REJECT
-DOMAIN-SUFFIX,guanggaoad.youku.com,REJECT
-DOMAIN-SUFFIX,hudong.pl.youku.com,REJECT
-DOMAIN-SUFFIX,hz.youku.com,REJECT
-DOMAIN-SUFFIX,iwstat.tudou.com,REJECT
-DOMAIN-SUFFIX,iyes.youku.com,REJECT
-DOMAIN-SUFFIX,l.ykimg.com,REJECT
-DOMAIN-SUFFIX,l.youku.com,REJECT
-DOMAIN-SUFFIX,lstat.youku.com,REJECT
-DOMAIN-SUFFIX,lvip.youku.com,REJECT
-DOMAIN-SUFFIX,mobilemsg.youku.com,REJECT
-DOMAIN-SUFFIX,msg.youku.com,REJECT
-DOMAIN-SUFFIX,nstat.tudou.com,REJECT
-DOMAIN-SUFFIX,p.l.ykimg.com,REJECT
-DOMAIN-SUFFIX,p.l.youku.com,REJECT
-DOMAIN-SUFFIX,passport-log.youku.com,REJECT
-DOMAIN-SUFFIX,p-log.ykimg.com,REJECT
-DOMAIN-SUFFIX,push.m.youku.com,REJECT
-DOMAIN-SUFFIX,r.l.youku.com,REJECT
-DOMAIN-SUFFIX,s.p.youku.com,REJECT
-DOMAIN-SUFFIX,sdk.m.youku.com,REJECT
-DOMAIN-SUFFIX,stat.tudou.com,REJECT
-DOMAIN-SUFFIX,stat.youku.com,REJECT
-DOMAIN-SUFFIX,static.lstat.youku.com,REJECT
-DOMAIN-SUFFIX,statis.api.3g.youku.com,REJECT
-DOMAIN-SUFFIX,stats.tudou.com,REJECT
-DOMAIN-SUFFIX,store.tv.api.3g.youku.com,REJECT
-DOMAIN-SUFFIX,store.xl.api.3g.youku.com,REJECT
-DOMAIN-SUFFIX,tdrec.youku.com,REJECT
-DOMAIN-SUFFIX,test.ott.youku.com,REJECT
-DOMAIN-SUFFIX,test.sdk.m.youku.com,REJECT
-DOMAIN-SUFFIX,urchin.lstat.youku.com,REJECT
-DOMAIN-SUFFIX,v.l.youku.com,REJECT
-DOMAIN-SUFFIX,val.api.youku.com,REJECT
-DOMAIN-SUFFIX,wan.youku.com,REJECT
-DOMAIN-SUFFIX,ykatr.youku.com,REJECT
-DOMAIN-SUFFIX,ykrec.youku.com,REJECT
-DOMAIN-SUFFIX,ykrectab.youku.com,REJECT
-DOMAIN-SUFFIX,ads.youtube.com,REJECT
-DOMAIN-SUFFIX,azabu-u.ac.jp,REJECT
-DOMAIN-SUFFIX,couchcoaster.jp,REJECT
-DOMAIN-SUFFIX,crt.comodoca.com,REJECT
-DOMAIN-SUFFIX,delivery.dmkt-sp.jp,REJECT
-DOMAIN-SUFFIX,ehg-youtube.hitbox.com,REJECT
-DOMAIN-SUFFIX,m-78.jp,REJECT
-DOMAIN-SUFFIX,nichibenren.or.jp,REJECT
-DOMAIN-SUFFIX,nicorette.co.kr,REJECT
-DOMAIN-SUFFIX,ssl-youtube.2cnt.net,REJECT
-DOMAIN-SUFFIX,youtube.112.2o7.net,REJECT
-DOMAIN-SUFFIX,youtube.2cnt.net,REJECT
-^https?://.+/videos/other/.+.f4v - reject
-^https?://iface.iqiyi.com/api/getNewAdInfo? - reject
-^https?://msga.cupid.iqiyi.com - reject
-^https?://ad.api.3g.youku.com - reject
-^https?://api.appsdk.soku.com/bg/r - reject
-^https?://api.appsdk.soku.com/tag/r - reject
-^https?://api.k.sohu.com/api/channel/ad/ - reject
-^https?://api.mobile.youku.com/adv/ - reject
-^https?://api.mobile.youku.com/initial? http://burpsuite.applinzi.com/Network/?configuration_token=& 302
-^https?://api.mobile.youku.com/layout/search/hot/word - reject
-^https?://appsdk.soku.com/bg/r? - reject
-^https?://atm.youku.com - reject
-^https?://burpsuite.applinzi.com/common/v5/play http://burpsuite.applinzi.com/Network/?configuration_token=& header
-^https?://d.m6.cms.mobile.youku.com/player/domain_name? http://burpsuite.applinzi.com/Network/?configuration_token=& header
-^https?://hd.api.mobile.youku.com/common/v3/hudong/new - reject
-^https?://hd.mobile.youku.com/common/v3/hudong/new - reject
-^https?://home.mobile.youku.com/layout/iphone/v5/home/page? http://burpsuite.applinzi.com/Network/?configuration_token=& header
-^https?://i.gtimg.cn/ https://i.gtimg.cn/ 302
-^https?://i-play.mobile.youku.com/common/v5/play? http://burpsuite.applinzi.com/Network/?configuration_token=&dev=true& header
-^https?://l.youku.com - reject
-^https?://m.youku.com/video/libs/iwt.js - reject
-^https?://pic.k.sohu.com/img8/wb/tj/ - reject
-^https?://pl.youku.com - reject
-^https?://r.l.youku.com/rec_at_click - reject
-^https://ups.youku.com/ups/get.json? http://burpsuite.applinzi.com/Network/?configuration_token=&dev=true& 302
-^https?://(www.)?g.cn https://www.google.com.hk 302
-^https?://(www.)?google.cn https://www.google.com.hk 302
-^https?://youtube.com https://www.youtube.com 302
 ||pagead2.googlesyndication.com^$domain=spiegel.de
 ||partner.googleadservices.com^$domain=spiegel.de
 ||pubmatic.com^$domain=spiegel.de
