@@ -169,6 +169,7 @@ version=1.0.0.103
 /adinfos?*&ane=pic1
 /adintrs/*
 /adpfile/*
+/gg/*
 /adPlat/adPlat_
 /adpro.js
 /adpuba/*
@@ -185,6 +186,9 @@ version=1.0.0.103
 /alljs/alldl.js
 /alljs/allfoot.js
 /alljs/allhead.js
+/com/imgs.js
+/com/qqs.js
+/me/imgs.js
 /alljs/alltop.js
 /alljs/allwzwfoot.js
 /alljs/allwzwhead.js
@@ -471,6 +475,10 @@ version=1.0.0.103
 /static/common/js/djlib_
 /Static/Home/GongGao/img/juzi*.gif
 /Static/Home/GongGao/img/kaiyuan.gif
+/www.btbdys.com/images/close.png
+/images/close.png
+/wwpic/440975_4-v_9me1QR2ZGfS_1644473019/*
+/wwpic/57596_UKa-ReZpSGSbVmp_1640840343/*
 /static/js/aall.js
 /static/js/fuo_3.js
 /static/js/gold_daddy.js
@@ -870,6 +878,7 @@ ubmcmm.baidustatic.com
 |http://r.*.com/view.php?uid=$script,third-party
 |http://tk.*.php?id=*&s=$script
 |http://tk.*.php?id=*&step=
+||fg.rmzbfum.cn^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -26780,6 +26789,8 @@ _760x100.
 _768x90_
 _800x100.
 _800x80_
+h.trace.qq.com@m.v.qq.com
+vm.gtimg.cn/tencentvideo/script/mockstorage/index.umd.js@m.v.qq.com
 lalovings.com#@##AdContainer
 apnaohio.com,miradiorumba.com#@##ad-header
 53.com#@##ad-rotator
@@ -45562,6 +45573,8 @@ urbandictionary.com###dark_top
 dictionary.com###dcomHomeTop-728x90
 helpwithwindows.com###desc
 definition-of.com###dfp
+m.v.qq.com##DIV.at-app-banner__main-btn.at-app-banner--button
+m.v.qq.com##SECTION.mod_box.mod_game_rec
 tribunnews.com###div-Inside-MediumRectangle
 adtunes.com###div-atf-336x280
 designtaxi.com###div-center-wrapper
