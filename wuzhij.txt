@@ -168,6 +168,12 @@ version=1.0.0.103
 /adinfo?
 /adinfos?*&ane=pic1
 /adintrs/*
+.com/analytics.js
+ads.realsrv.com/ads.js
+.com/ads.js
+ads.exosrv.com/nativeads.js
+/ads/ga-audiences
+.com/collect
 /adpfile/*
 /gg/*
 /adPlat/adPlat_
@@ -8456,6 +8462,8 @@ duba.com###ad-dongman
 qq.com###ad-fullscreen
 titan24.com###ad-index-01
 mvcat.com###ad-jd
+29th.cc###TR
+m.douban.com##.center
 ithome.com.tw###ad-on-top
 udn.com###ad-pall
 kaitao.cn###ad-tit
@@ -9997,6 +10005,9 @@ vuejs.org##.ad-pagetop
 19lou.com,cqmmgo.com##.ad-place-logo
 baidu.com##.ad-platform-tips
 baofeng.com##.ad-pop-wrap
+cn.pornhub.com##.adContainer.clearfix.ad-tabSpli
+cn.pornhub.com##.adContainer.clearfix.middleVideoAdContainer
+cn.pornhub.com##.topAdContainter
 xueqiu.com##.ad-right-aside
 qidian.com##.ad-shell
 liba.com##.ad-split
@@ -45027,6 +45038,7 @@ tf2r.com#@#.adverts
 ||youtube.com/pagead/
 ||zdnet.com/leadgen/
 ||dotabuff.com/a.js
+||ads.trafficjunky.net^
 ||elder-dragon.tracklol.com^
 ||magic-stick.trackdota.com^
 ||overbuff.com/a.js
@@ -45035,8 +45047,10 @@ tf2r.com#@#.adverts
 ||bustle.com^*/prebid-
 ||dw.com/js/advertisement/
 ||jwplatform.com/libraries/tdeymorh.js
+||google.com/js/th/eC3m08BWsKAgXdD56g8v-hRF27m9BLFWuq71lBVmRb0.js
 ||wsj.net/pb/pb.js
 ||api.fw.tv^
+||js.woaijiba.com^
 ||avantisvideo.com/avm/js/video-loader.js$script,third-party
 ||channelexco.com/player/$third-party
 ||connatix.com^$script,third-party
@@ -45072,6 +45086,8 @@ tf2r.com#@#.adverts
 @@||m.youtube.com/s/player/577098c0/player-plasma-ias-phone-zh_CN.vflset/ad.js^$domain=m.youtube.com
 @@||www.google.com/pagead/1p-user-list/962985656/^$domain=m.youtube.com
 @@||rr1---sn-nx57ynld.googlevideo.com^$domain=m.youtube.com
+@@||ads.trafficjunky.net^$domain=cn.pornhub.com
+@@||js.woaijiba.com^$domain=www.007ts.cc
 @@||wnxgaj.com^$domain=www.btbtt14.com
 @@||zigqnx.com^$domain=www.btbtt14.com
 @@||www.btbtt14.com##DIV.width.imgs_1-
@@ -45088,6 +45104,12 @@ tf2r.com#@#.adverts
 @@||rr4---sn-vgqsknsk.googlevideo.com^$domain=m.youtube.com
 @@||rr5---sn-vgqsknsk.googlevideo.com^$domain=m.youtube.com
 @@||rr6---sn-vgqsknsk.googlevideo.com^$domain=m.youtube.com
+@@||rr4---sn-o097znsk.googlevideo.com^$domain=m.youtube.com
+@@||rr5---sn-o097znsk.googlevideo.com^$domain=m.youtube.com
+@@||rr6---sn-o097znsk.googlevideo.com^$domain=m.youtube.com
+@@||rr3---sn-o097znsk.googlevideo.com^$domain=m.youtube.com
+@@||rr2---sn-o097znsk.googlevideo.com^$domain=m.youtube.com
+@@||rr1---sn-o097znsk.googlevideo.com^$domain=m.youtube.com
 @@||rr4---sn-nx5e6nez.googlevideo.com^$domain=m.youtube.com
 @@||rr5---sn-nx5e6nez.googlevideo.com^$domain=m.youtube.com
 @@||rr6---sn-nx5e6nez.googlevideo.com^$domain=m.youtube.com
