@@ -192,6 +192,7 @@ ads.exosrv.com/nativeads.js
 /ajds/*
 /all/*_640200.gif
 /alljs/alldl.js
+/s/player/68423b67/player-plasma-ias-phone-zh_CN.vflset/ad.js
 /alljs/allfoot.js
 /alljs/allhead.js
 /com/imgs.js
@@ -45283,6 +45284,16 @@ starpc.cn
 @@||rr3---sn-vgqsknek.googlevideo.com^$domain=m.youtube.com
 @@||rr2---sn-vgqsknek.googlevideo.com^$domain=m.youtube.com
 @@||rr1---sn-vgqsknek.googlevideo.com^$domain=m.youtube.com
+@@||r1---sn-h5q7knes.googlevideo.com^$domain=m.youtube.com
+@@||r2---sn-h5q7knes.googlevideo.com^$domain=m.youtube.com
+@@||r3---sn-h5q7knes.googlevideo.com^$domain=m.youtube.com
+@@||r4---sn-h5q7knes.googlevideo.com^$domain=m.youtube.com
+@@||r5---sn-h5q7knes.googlevideo.com^$domain=m.youtube.com
+@@||r6---sn-h5q7knes.googlevideo.com^$domain=m.youtube.com
+@@||r7---sn-h5q7knes.googlevideo.com^$domain=m.youtube.com
+@@||m.youtube.com/s/player/68423b67/player-plasma-ias-phone-zh_CN.vflset/ad.js^$domain=m.youtube.com
+@@||www.google.com/js/th/9oKJBEnN_mTbD2Jm068IkL1PJPaktJMzmkFP90QF0-4.js^$domain=m.youtube.com
+/js/th/9oKJBEnN_mTbD2Jm068IkL1PJPaktJMzmkFP90QF0-4.js
 @@||lh5.googleusercontent.com^$domain=m.youtube.com
 @@||lh6.googleusercontent.com^$domain=m.youtube.com
 @@||lh4.googleusercontent.com^$domain=m.youtube.com
