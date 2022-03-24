@@ -50,6 +50,7 @@ version=1.0.0.103
 .com/dm/dibu.js
 .com/dongcidaci/
 .com/gg.js
+.com/imgs.js
 .com/headlink.js
 .com/image/ll/$script
 .com/images/102.js
@@ -178,6 +179,7 @@ ads.exosrv.com/nativeads.js
 /adpfile/*
 /gg/*
 /kl.js
+/imgs.js
 /adPlat/adPlat_
 /adpro.js
 /adpuba/*
@@ -45294,6 +45296,8 @@ starpc.cn
 @@||m.youtube.com/s/player/68423b67/player-plasma-ias-phone-zh_CN.vflset/ad.js^$domain=m.youtube.com
 @@||www.google.com/js/th/9oKJBEnN_mTbD2Jm068IkL1PJPaktJMzmkFP90QF0-4.js^$domain=m.youtube.com
 /js/th/9oKJBEnN_mTbD2Jm068IkL1PJPaktJMzmkFP90QF0-4.js
+btbtt20.com/imgs.js
+btbtt14.com/imgs.js
 @@||lh5.googleusercontent.com^$domain=m.youtube.com
 @@||lh6.googleusercontent.com^$domain=m.youtube.com
 @@||lh4.googleusercontent.com^$domain=m.youtube.com
@@ -45314,6 +45318,8 @@ m.youtube.com##YTM-ITEM-SECTION-RENDERER.scwnr-content
 www.google.com/js/th/eC3m08BWsKAgXdD56g8v-hRF27m9BLFWuq71lBVmRb0.js
 @@||3332600.com^$domain=www.btbtt14.com
 @@||s3.bmp.ovh^$domain=www.btbtt14.com
+@@||btbtt14.com/imgs.js^$domain=www.btbtt14.com
+@@||btbtt20.com/imgs.js^$domain=www.btbtt20.com
 @@||shixunjs.th21333.com/qqs.js^$domain=www.btbtt14.com
 m.youtube.com/s/player/577098c0/player-plasma-ias-phone-zh_CN.vflset/ad.js
 m.youtube.com##YTM-ITEM-SECTION-RENDERER.scwnr-content
