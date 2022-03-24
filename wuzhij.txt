@@ -11031,6 +11031,7 @@ suxzp.com##.full-screen-cover
 guancha.cn##.full_nav1
 gamme.com.tw##.fullad_ad
 962.net##.g-962-ad
+m.v.qq.com##.at-app-banner__main-btn.at-app-banner--button
 so.com##.g-a-noline[data-md*="sad"]
 onlinedown.net##.g-huodong
 onlinedown.net##.g-main-top > a:first-child
@@ -12425,6 +12426,8 @@ sxrom.com##.tmk
 muchong.com##.todayhot
 weather.com.cn##.tong
 gamefy.cn##.tonglan
+btbtt20.com##.width.imgs_1
+btbtt14.com##.width.imgs_1
 qilindao.com##.tonglanAd
 chinanews.com##.tonglan_advert
 3dmgame.com##.tonglona_1
@@ -49287,6 +49290,18 @@ redtube.com,youporn.com,youporngay.com##video[loop][src^="bLob:" i]
 @@||ams.amazon.co.jp^$domain=ams.amazon.co.jp
 @@||ams.amazon.co.uk^$domain=ams.amazon.co.uk
 @@||ams.amazon.com^$domain=ams.amazon.com
+@@||xg.adbeuch.cn^$domain=www.1717yun.com
+@@||cdn.yuetx.cc^$domain=www.1717yun.com
+@@||cdn.gayeah.cn^$domain=www.1717yun.com
+@@||cdn.ert295.com^$domain=www.1717yun.com
+@@||engine.asf4f.us^$domain=cn.pornhub.com
+@@||cdn.asf4f.us^$domain=cn.pornhub.com
+@@||w8hln3tcfvk528ue2knhh85e.find-singles-online.com^$domain=m.spdate.com
+m.chillholes.com
+cn.pornhub.com##.adContainer.clearfix.ad-tabSplit
+cn.pornhub.com##.adContainer.clearfix.middleVideoAdContainer
+ads.realsrv.com/ads.js
+www.google-analytics.com/analytics.js
 @@||adservice.com/wp-content/themes/adservice/$~third-party
 @@||publisher.adservice.com^$domain=publisher.adservice.com
 @@||anitasrecipes.com/Content/Images/Recipes/$image,~third-party
