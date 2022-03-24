@@ -177,6 +177,7 @@ ads.exosrv.com/nativeads.js
 .com/collect
 /adpfile/*
 /gg/*
+/kl.js
 /adPlat/adPlat_
 /adpro.js
 /adpuba/*
@@ -5817,6 +5818,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||hongyingbbs.com/img/top.js
 ||hongyingbbs.com/jj/
 ||hoopchina.com.cn/common/lazyLoadAd.js
+img.ishanggao.com/kl.js
+||img.ishanggao.com/kl.js
 ||hoopchina.com.cn/gamecenter/side-stg.js
 ||hoopchina.com.cn/static/www/*340-230.
 ||hoopchina.com.cn/static/www/*340x230.
@@ -45058,8 +45061,17 @@ tf2r.com#@#.adverts
 ||js.woaijiba.com^
 ||s95.cnzz.com^
 ||js.quanmindi.com/o.js
+img.starpc.cn/txt/bf/b4.txt
+img.starpc.cn/txt/bf/b3.txt
+img.starpc.cn/txt/bf/b2.txt
+img.starpc.cn/txt/bf/b1.txt
+.com/o.js
+js.woaijiba.com
+woaijiba.com
+js.zjjbtl.com
 ||img.starpc.cn^
 img.starpc.cn
+starpc.cn
 ||avantisvideo.com/avm/js/video-loader.js$script,third-party
 ||channelexco.com/player/$third-party
 ||connatix.com^$script,third-party
