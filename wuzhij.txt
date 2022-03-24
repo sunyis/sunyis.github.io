@@ -26,6 +26,7 @@ version=1.0.0.103
 .com/a_d/
 .com/aaasi/*.js
 .com/ad777.js
+.com/o.js
 .com/Ads/95060_
 .com/ads/ada.js
 .com/ads/adb.js
@@ -11653,6 +11654,7 @@ crsky.com##.ml10.Gs_d
 hmog.me##.ml_ad_widget
 cnforex.com##.mleft > a
 china.com##.mm
+www.007ts.cc##.vodbtd
 6789.com##.mm-force
 tongxiang.net##.mmver.w-1200
 playno1.com##.mn > div[style="margin-bottom:10px;"]
@@ -45054,6 +45056,10 @@ tf2r.com#@#.adverts
 ||wsj.net/pb/pb.js
 ||api.fw.tv^
 ||js.woaijiba.com^
+||s95.cnzz.com^
+||js.quanmindi.com/o.js
+||img.starpc.cn^
+img.starpc.cn
 ||avantisvideo.com/avm/js/video-loader.js$script,third-party
 ||channelexco.com/player/$third-party
 ||connatix.com^$script,third-party
