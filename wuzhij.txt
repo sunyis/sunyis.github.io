@@ -49695,10 +49695,10 @@ redtube.com,youporn.com,youporngay.com##video[loop][src^="bLob:" i]
 @@||img.starpc.cn^$domain=www.007ts.cc
 @@||engine.asf4f.us^$domain=cn.pornhub.com
 @@||cdn.asf4f.us^$domain=cn.pornhub.com
-@@||ajia2.top/o.js^$domain=m.bgdy88.com
-www.ajia2.top@m.bgdy88.com
-www.ajia2.top/o.js
-www.ajia2.top
+@@||ajia2.top/o.js^$domain=bgdy88.com
+ajia2.top@m.bgdy88.com
+ajia2.top/o.js
+||ajia2.top
 @@||w8hln3tcfvk528ue2knhh85e.find-singles-online.com^$domain=m.spdate.com
 m.chillholes.com
 img.qishenga.com
