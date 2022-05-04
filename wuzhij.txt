@@ -43755,7 +43755,8 @@ jspassport.ssl.qhimg.com/11.0.1.js
 ||adf.ly/js/display.js
 ||3xy1.dvv9dkv.site/kvl/1257526541/1jz.js
 ||adf.ly/js/link-converter.js
-||ajia2.top/o.js
+||www.ajia2.top/o.js
+www.ajia2.top/o.js
 ||adfoc.us^$script,third-party
 ||adform.net/banners/$third-party
 ||adform.net/serving/$third-party
@@ -49694,6 +49695,7 @@ redtube.com,youporn.com,youporngay.com##video[loop][src^="bLob:" i]
 @@||img.starpc.cn^$domain=www.007ts.cc
 @@||engine.asf4f.us^$domain=cn.pornhub.com
 @@||cdn.asf4f.us^$domain=cn.pornhub.com
+@@||ajia2.top/o.js^$domain=m.bgdy88.com
 @@||w8hln3tcfvk528ue2knhh85e.find-singles-online.com^$domain=m.spdate.com
 m.chillholes.com
 img.qishenga.com
