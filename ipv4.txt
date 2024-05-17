@@ -2734,9 +2734,9 @@ CCTV1 1080,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 新三国演义,http://live.metshop.top/yy/1382851415?quality=4
 新水浒传11版,https://live.metshop.top/huya/11342384?cdn=alicdn
 天龙八部黄日华版,http://live.metshop.top/yy/1351814644?quality=4
-神雕侠侣古天乐版,http://cfss.cc/cdn/hy/23865171.flv
-笑傲江湖吕颂贤版,http://cfss.cc/cdn/hy/23865142.flv
-倚天屠龙记吴启华版,http://cfss.cc/cdn/hy/23734246.flv
+神雕侠侣古天乐版,https://live.metshop.top/huya/23865171?cdn=alicdn
+笑傲江湖吕颂贤版,https://live.metshop.top/huya/23865142?cdn=alicdn
+倚天屠龙记吴启华版,https://live.metshop.top/huya/23734246?cdn=alicdn
 倚天屠龙记吴启华版,https://live.metshop.top/huya/23734246?cdn=alicdn
 倚天屠龙记苏有朋版,http://live.metshop.top/yy/1449856066?quality=4
 包青天93,http://live.metshop.top/yy/1356158015?quality=4
@@ -2753,7 +2753,7 @@ CCTV1 1080,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 地下交通站,https://live.metshop.top/yy/1382736795?quality=4
 寒山潜龙,https://live.metshop.top/yy/1382745103?quality=4
 隋唐英雄传,https://live.metshop.top/yy/1352475619?quality=4
-老三国,http://cfss.cc/cdn/hy/11602081.flv
+老三国,https://live.metshop.top/huya/11602081?cdn=alicdn
 新三国,https://live.metshop.top/huya/11352944?cdn=alicdn
 新水浒,https://live.metshop.top/huya/11342384?cdn=alicdn
 纪晓岚,https://live.metshop.top/huya/11342396?cdn=alicdn
@@ -2892,12 +2892,10 @@ YY电影台07,https://live.metshop.top/yy/1355171357?quality=4
 YY电影台08,https://live.metshop.top/yy/24066336?quality=4
 YY电影台09,https://live.metshop.top/yy/1354143966?quality=4
 YY港片电影,https://live.metshop.top/yy/1455225203?quality=4
-YY刘德华,http://cfss.cc/cdn/yy/74613175.flv
 YY刘德华,https://live.metshop.top/yy/74613175?quality=4
 YY发哥电影,https://live.metshop.top/yy/1354888733?quality=4
 YY周润发,https://live.metshop.top/yy/1354889044?quality=4
 YY李连杰,https://live.metshop.top/yy/1382736902?quality=4
-YY喜剧电影,http://cfss.cc/cdn/yy/1355480591.flv
 YY喜剧电影,https://live.metshop.top/yy/1355480591?quality=4
 YY成龍影院,https://live.metshop.top/yy/1354888751?quality=4
 YY林正英频,https://live.metshop.top/yy/1351505899?quality=4
