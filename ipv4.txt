@@ -5481,8 +5481,16 @@ CCTV17-农业,http://113.206.128.189:8002/udp/225.0.4.180:7980
 新三国演义,http://tv.wuzhij.com/yy/1382851415?quality=4
 新水浒传11版,https://tv.wuzhij.com/huya/11342384?cdn=alicdn
 天龙八部黄日华版,http://tv.wuzhij.com/yy/1351814644?quality=4
+神雕侠侣古天乐版,https://tv.wuzhij.com/huya/23865171?media=hls
 神雕侠侣古天乐版,https://tv.wuzhij.com/huya/23865171?cdn=alicdn
+神雕侠侣古天乐版,https://tv.wuzhij.com/huya/23865171?cdn=hwcdn
+神雕侠侣古天乐版,https://tv.wuzhij.com/huya/23865171?cdn=txcdn
+神雕侠侣古天乐版,https://tv.wuzhij.com/huya/23865171?cdn=hscdn
+笑傲江湖吕颂贤版,https://tv.wuzhij.com/huya/23865142?media=hls
 笑傲江湖吕颂贤版,https://tv.wuzhij.com/huya/23865142?cdn=alicdn
+笑傲江湖吕颂贤版,https://tv.wuzhij.com/huya/23865142?cdn=hwcdn
+笑傲江湖吕颂贤版,https://tv.wuzhij.com/huya/23865142?cdn=txcdn
+笑傲江湖吕颂贤版,https://tv.wuzhij.com/huya/23865142?cdn=hscdn
 倚天屠龙记吴启华版,https://tv.wuzhij.com/huya/23734246?cdn=alicdn
 倚天屠龙记苏有朋版,http://tv.wuzhij.com/yy/1449856066?quality=4
 包青天93,http://tv.wuzhij.com/yy/1356158015?quality=4
