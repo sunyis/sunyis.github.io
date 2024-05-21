@@ -4225,6 +4225,8 @@ CCTV17-农业,http://27.9.90.94:8002/udp/225.0.4.180:7980
 
 📽经典剧集,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+经典电影台,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
+经典影视台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
 连续剧台,http://43.138.170.29:35455/yy/1352227227?quality=4
 抗战剧,http://43.138.170.29:35455/yy/1507704566?quality=4
 封神榜86版,http://43.138.170.29:35455/yy/1353426319?quality=4
