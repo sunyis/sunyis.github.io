@@ -511,7 +511,7 @@
             {
       "name": "sao0",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/main/tvlive.txt",
+      "url": "https://wuzhij.pages.dev/ipv4.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
