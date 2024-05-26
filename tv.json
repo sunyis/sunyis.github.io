@@ -507,16 +507,17 @@
     {"host": "*","rule": ["huoshan.com","/item/video/"]},
     {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
     {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
-    "lives" : [
-            {
-      "name": "sao0",
+	"lives": [
+    {
+      "name": "live",
       "type": 0,
       "url": "https://wuzhij.pages.dev/ipv4.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
+      "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+    }
+  ],
+    "lives" : [
     {
       "name": "ipv6",
       "type": 0,
@@ -527,16 +528,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }],
     "spider": "https://gitee.com/lukei7/k18/raw/Luck/Yoursmile.jar;md5;a8b67c6e7ae00f56c43f6946764f0102",
-	"lives": [
-    {
-      "name": "live2",
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/main/tvlive.txt",
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
 	"ijk": [
 		{
 			"group": "硬解码",
