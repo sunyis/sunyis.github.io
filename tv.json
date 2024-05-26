@@ -508,20 +508,20 @@
     {"host": "*","rule": ["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]},
     {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 	"lives": [
-    {
-      "name": "live",
+            {
+      "name": "sao0",
       "type": 0,
       "url": "https://wuzhij.pages.dev/ipv4.txt",
-      "ua": "okhttp/3.12.13",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
+    },
     "lives" : [
     {
       "name": "ipv6",
       "type": 0,
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://wuzhij.pages.dev/ipv6.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
