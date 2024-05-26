@@ -512,7 +512,7 @@
             {
       "name": "sao0",
       "type": 0,
-      "url": "https://wuzhij.pages.dev/ipv4.txt",
+      "url": "https://wuzhij.pages.dev/ipv4.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
