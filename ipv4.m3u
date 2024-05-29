@@ -32,11 +32,7 @@ http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&chan
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="🇨🇳电视频道",CCTV5+
 http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=284
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳电视频道",河南卫视
-https://tvzb.wuzhij.com/api/hntv.php?id=hnws
-#EXTINF:-1 tvg-name="梨园戏曲" tvg-logo="https://live.fanmingming.com/tv/梨园戏曲.png" group-title="🇨🇳电视频道",梨园戏曲
-https://tvzb.wuzhij.com/api/hntv.php?id=hnly
-#EXTINF:-1 tvg-name="移动戏曲" tvg-logo="https://live.fanmingming.com/tv/移动戏曲.png" group-title="🇨🇳电视频道",移动戏曲
-https://tvzb.wuzhij.com/api/hntv.php?id=ydxj
+http://106.115.27.163:9999/tsfile/live/0139_1.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🇨🇳电视频道",湖南卫视
 http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=295
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🇨🇳电视频道",浙江卫视
@@ -215,8 +211,6 @@ http://106.115.27.163:9999/tsfile/live/0121_1.m3u8
 http://106.115.27.163:9999/tsfile/live/0131_1.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="🇨🇳电视频道",云南卫视
 http://106.115.27.163:9999/tsfile/live/0119_1.m3u8
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳电视频道",河南卫视
-http://106.115.27.163:9999/tsfile/live/0139_1.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🇨🇳电视频道",四川卫视
 http://106.115.27.163:9999/tsfile/live/0123_1.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🇨🇳电视频道",江西卫视
@@ -6047,12 +6041,6 @@ http://115.60.241.249:2000/udp/225.1.5.46:1356
 http://115.60.241.249:2000/udp/225.1.4.226:2506
 #EXTINF:-1 tvg-name="CCTV5+体育赛事-(1080i)" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事-(1080i).png" group-title="📽河南IPTV",CCTV5+体育赛事-(1080i)
 http://115.60.241.249:2000/udp/225.1.4.75:1104
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="📽河南IPTV",河南卫视
-https://tvzb.wuzhij.com/api/hntv.php?id=hnws
-#EXTINF:-1 tvg-name="梨园戏曲" tvg-logo="https://live.fanmingming.com/tv/梨园戏曲.png" group-title="📽河南IPTV",梨园戏曲
-https://tvzb.wuzhij.com/api/hntv.php?id=hnly
-#EXTINF:-1 tvg-name="移动戏曲" tvg-logo="https://live.fanmingming.com/tv/移动戏曲.png" group-title="📽河南IPTV",移动戏曲
-https://tvzb.wuzhij.com/api/hntv.php?id=ydxj
 #EXTINF:-1 tvg-name="HNTV戏曲-(1080p)" tvg-logo="https://live.fanmingming.com/tv/HNTV戏曲-(1080p).png" group-title="📽河南IPTV",HNTV戏曲-(1080p)
 http://115.60.241.249:2000/udp/225.1.4.99:1128
 #EXTINF:-1 tvg-name="HNTV移动戏曲-(1080p)" tvg-logo="https://live.fanmingming.com/tv/HNTV移动戏曲-(1080p).png" group-title="📽河南IPTV",HNTV移动戏曲-(1080p)
@@ -6163,32 +6151,6 @@ http://115.60.241.249:2000/udp/225.1.4.187:1236
 http://115.60.241.249:2000/udp/225.1.4.188:1237
 #EXTINF:-1 tvg-name="热播剧场-(576i)" tvg-logo="https://live.fanmingming.com/tv/热播剧场-(576i).png" group-title="📽河南IPTV",热播剧场-(576i)
 http://115.60.241.249:2000/udp/225.1.4.190:1239
-#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://live.fanmingming.com/tv/河南都市.png" group-title="📽河南IPTV",河南都市
-https://tvzb.wuzhij.com/api/hntv.php?id=hnds
-#EXTINF:-1 tvg-name="河南民生" tvg-logo="https://live.fanmingming.com/tv/河南民生.png" group-title="📽河南IPTV",河南民生
-https://tvzb.wuzhij.com/api/hntv.php?id=hnms
-#EXTINF:-1 tvg-name="河南法治" tvg-logo="https://live.fanmingming.com/tv/河南法治.png" group-title="📽河南IPTV",河南法治
-https://tvzb.wuzhij.com/api/hntv.php?id=hmfz
-#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="https://live.fanmingming.com/tv/河南电视剧.png" group-title="📽河南IPTV",河南电视剧
-https://tvzb.wuzhij.com/api/hntv.php?id=hndsj
-#EXTINF:-1 tvg-name="河南新闻" tvg-logo="https://live.fanmingming.com/tv/河南新闻.png" group-title="📽河南IPTV",河南新闻
-https://tvzb.wuzhij.com/api/hntv.php?id=hnxw
-#EXTINF:-1 tvg-name="河南公共" tvg-logo="https://live.fanmingming.com/tv/河南公共.png" group-title="📽河南IPTV",河南公共
-https://tvzb.wuzhij.com/api/hntv.php?id=hngg
-#EXTINF:-1 tvg-name="河南乡村" tvg-logo="https://live.fanmingming.com/tv/河南乡村.png" group-title="📽河南IPTV",河南乡村
-https://tvzb.wuzhij.com/api/hntv.php?id=hnxc
-#EXTINF:-1 tvg-name="河南国际" tvg-logo="https://live.fanmingming.com/tv/河南国际.png" group-title="📽河南IPTV",河南国际
-https://tvzb.wuzhij.com/api/hntv.php?id=hngj
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png" group-title="📽河南IPTV",文物宝库
-https://tvzb.wuzhij.com/api/hntv.php?id=wwbk
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="📽河南IPTV",武术世界
-https://tvzb.wuzhij.com/api/hntv.php?id=wspd
-#EXTINF:-1 tvg-name="睛彩中原" tvg-logo="https://live.fanmingming.com/tv/睛彩中原.png" group-title="📽河南IPTV",睛彩中原
-https://tvzb.wuzhij.com/api/hntv.php?id=jczy
-#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://live.fanmingming.com/tv/国学频道.png" group-title="📽河南IPTV",国学频道
-https://tvzb.wuzhij.com/api/hntv.php?id=gxpd
-#EXTINF:-1 tvg-name="象视界" tvg-logo="https://live.fanmingming.com/tv/象视界.png" group-title="📽河南IPTV",象视界
-https://tvzb.wuzhij.com/api/hntv.php?id=xsj
 #EXTINF:-1 tvg-name="HNTV2都市频道-(1080i)" tvg-logo="https://live.fanmingming.com/tv/HNTV2都市频道-(1080i).png" group-title="📽河南IPTV",HNTV2都市频道-(1080i)
 http://115.60.241.249:2000/udp/225.1.4.52:1081
 #EXTINF:-1 tvg-name="HNTV3民生频道-(1080i)" tvg-logo="https://live.fanmingming.com/tv/HNTV3民生频道-(1080i).png" group-title="📽河南IPTV",HNTV3民生频道-(1080i)
@@ -24709,7 +24671,7 @@ https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 https://wz.wuzhij.com/playlist.m3u8
 #EXTINF:-1 tvg-name="最后更新时间" tvg-logo="https://live.fanmingming.com/tv/最后更新时间.png" group-title="🐉使用须知",最后更新时间
 http://#.m3u8
-#EXTINF:-1 tvg-name="2024/05/28" tvg-logo="https://live.fanmingming.com/tv/2024/05/28.png" group-title="🐉使用须知",2024/05/28
+#EXTINF:-1 tvg-name="2024/05/29" tvg-logo="https://live.fanmingming.com/tv/2024/05/29.png" group-title="🐉使用须知",2024/05/29
 http://#.m3u8
 #EXTINF:-1 tvg-name="禁止商用" tvg-logo="https://live.fanmingming.com/tv/禁止商用.png" group-title="🐉使用须知",禁止商用
 http://#.m3u8
