@@ -10793,12 +10793,6 @@ sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?au
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚2024,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
-🐉使用须知,#genre#
-©wuzhij.com,https://wz.wuzhij.com/playlist.m3u8
-最后更新时间,http://#.m3u8
-2024/06/06,http://#.m3u8
-禁止商用,http://#.m3u8
-
 🇨🇳中国大陆,#genre#
 CCTV-戏曲,https://epg.pw/stream/e9be97e5572456880d76a26cb5ae8a5be04d89f378d9d5b6750f69d691918847.ctv
 CCTV1,https://epg.pw/stream/4a250dafef7349ead704088bec3993f3cd3b2cdcb604f23bbf700da31434fa08.m3u8
@@ -13369,3 +13363,10 @@ tvN DRAMA,https://epg.pw/stream/9afcc8a37e3767de7a15e90b17dd911f301ed27dee7ed4cc
 국악방송,https://epg.pw/stream/5f3e490eafd98ed083068a823f7e783790acb0d86d386dccb05d8db5d768f6ac.m3u8
 국악방송,https://epg.pw/stream/472436881eaa1f9da21c5a3f6c9469bc2aee56b9867abcb163be70bee7c59d58.m3u8
 연합뉴스TV,https://epg.pw/stream/4207ebf0f1c354ac75cc77a05692276ca2efee2340f1c706435787a6f083a7bf.m3u8
+
+
+🐉使用须知,#genre#
+©wuzhij.com,https://wz.wuzhij.com/playlist.m3u8
+最后更新时间,http://#.m3u8
+2024/06/09,http://#.m3u8
+禁止商用,http://#.m3u8
