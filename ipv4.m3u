@@ -1,210 +1,210 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-name="CCTV1-综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1-综合.png" group-title="🇨🇳电视频道",CCTV1-综合
-http://ori.jsblive.hls.domybox.com:91/live/CCTV1-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV1-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV1-综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1-综合.png" group-title="🇨🇳电视频道",CCTV1-综合
-http://ori.jsblive.hls.domybox.com:91/live/CCTV1hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV1hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV2-财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2-财经.png" group-title="🇨🇳电视频道",CCTV2-财经
-http://ori.jsblive.hls.domybox.com:91/live/CCTV2-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV2-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV2-财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2-财经.png" group-title="🇨🇳电视频道",CCTV2-财经
-http://ori.jsblive.hls.domybox.com:91/live/CCTV2hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV2hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV3-综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3-综艺.png" group-title="🇨🇳电视频道",CCTV3-综艺
-http://ori.jsblive.hls.domybox.com:91/live/CCTV3-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV3-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV3-综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3-综艺.png" group-title="🇨🇳电视频道",CCTV3-综艺
-http://ori.jsblive.hls.domybox.com:91/live/CCTV3hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV3hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV4-中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4-中文国际.png" group-title="🇨🇳电视频道",CCTV4-中文国际
-http://ori.jsblive.hls.domybox.com:91/live/CCTV4-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV4-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV4-中文国际" tvg-logo="https://live.fanmingming.com/tv/CCTV4-中文国际.png" group-title="🇨🇳电视频道",CCTV4-中文国际
-http://ori.jsblive.hls.domybox.com:91/live/CCTV4hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV4hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV5-体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5-体育.png" group-title="🇨🇳电视频道",CCTV5-体育
-http://ori.jsblive.hls.domybox.com:91/live/CCTV5-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV5-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV5-体育" tvg-logo="https://live.fanmingming.com/tv/CCTV5-体育.png" group-title="🇨🇳电视频道",CCTV5-体育
-http://ori.jsblive.hls.domybox.com:91/live/CCTV5hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV5hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://live.fanmingming.com/tv/CCTV5+体育赛事.png" group-title="🇨🇳电视频道",CCTV5+体育赛事
-http://ori.jsblive.hls.domybox.com:91/live/CCTV5+hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV5+hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV6-电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6-电影.png" group-title="🇨🇳电视频道",CCTV6-电影
-http://ori.jsblive.hls.domybox.com:91/live/CCTV6-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV6-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV6-电影" tvg-logo="https://live.fanmingming.com/tv/CCTV6-电影.png" group-title="🇨🇳电视频道",CCTV6-电影
-http://ori.jsblive.hls.domybox.com:91/live/CCTV6hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV6hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV7-国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7-国防军事.png" group-title="🇨🇳电视频道",CCTV7-国防军事
-http://ori.jsblive.hls.domybox.com:91/live/CCTV7-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV7-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV7-国防军事" tvg-logo="https://live.fanmingming.com/tv/CCTV7-国防军事.png" group-title="🇨🇳电视频道",CCTV7-国防军事
-http://ori.jsblive.hls.domybox.com:91/live/CCTV7hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV7hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV8-电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8-电视剧.png" group-title="🇨🇳电视频道",CCTV8-电视剧
-http://ori.jsblive.hls.domybox.com:91/live/CCTV8-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV8-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV8-电视剧" tvg-logo="https://live.fanmingming.com/tv/CCTV8-电视剧.png" group-title="🇨🇳电视频道",CCTV8-电视剧
-http://ori.jsblive.hls.domybox.com:91/live/CCTV8hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV8hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV9-纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9-纪录.png" group-title="🇨🇳电视频道",CCTV9-纪录
-http://ori.jsblive.hls.domybox.com:91/live/CCTV9-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV9-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV9-纪录" tvg-logo="https://live.fanmingming.com/tv/CCTV9-纪录.png" group-title="🇨🇳电视频道",CCTV9-纪录
-http://ori.jsblive.hls.domybox.com:91/live/CCTV9hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV9hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV10-科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10-科教.png" group-title="🇨🇳电视频道",CCTV10-科教
-http://ori.jsblive.hls.domybox.com:91/live/CCTV10-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV10-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV10-科教" tvg-logo="https://live.fanmingming.com/tv/CCTV10-科教.png" group-title="🇨🇳电视频道",CCTV10-科教
-http://ori.jsblive.hls.domybox.com:91/live/CCTV10hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV10hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV11-戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11-戏曲.png" group-title="🇨🇳电视频道",CCTV11-戏曲
-http://ori.jsblive.hls.domybox.com:91/live/CCTV11-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV11-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV11-戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV11-戏曲.png" group-title="🇨🇳电视频道",CCTV11-戏曲
-http://ori.jsblive.hls.domybox.com:91/live/CCTV11hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV11hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV12-社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12-社会与法.png" group-title="🇨🇳电视频道",CCTV12-社会与法
-http://ori.jsblive.hls.domybox.com:91/live/CCTV12-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV12-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV12-社会与法" tvg-logo="https://live.fanmingming.com/tv/CCTV12-社会与法.png" group-title="🇨🇳电视频道",CCTV12-社会与法
-http://ori.jsblive.hls.domybox.com:91/live/CCTV12hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV12hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV13-新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13-新闻.png" group-title="🇨🇳电视频道",CCTV13-新闻
-http://ori.jsblive.hls.domybox.com:91/live/CCTV13-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV13-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV13-新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV13-新闻.png" group-title="🇨🇳电视频道",CCTV13-新闻
-http://ori.jsblive.hls.domybox.com:91/live/CCTV13hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV13hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV14-少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14-少儿.png" group-title="🇨🇳电视频道",CCTV14-少儿
-http://ori.jsblive.hls.domybox.com:91/live/CCTV14-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV14-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV14-少儿" tvg-logo="https://live.fanmingming.com/tv/CCTV14-少儿.png" group-title="🇨🇳电视频道",CCTV14-少儿
-http://ori.jsblive.hls.domybox.com:91/live/CCTV14hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV14hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV15-音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15-音乐.png" group-title="🇨🇳电视频道",CCTV15-音乐
-http://ori.jsblive.hls.domybox.com:91/live/CCTV15-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV15-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV15-音乐" tvg-logo="https://live.fanmingming.com/tv/CCTV15-音乐.png" group-title="🇨🇳电视频道",CCTV15-音乐
-http://ori.jsblive.hls.domybox.com:91/live/CCTV15hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV15hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV16-奥林匹克" tvg-logo="https://live.fanmingming.com/tv/CCTV16-奥林匹克.png" group-title="🇨🇳电视频道",CCTV16-奥林匹克
-http://ori.jsblive.hls.domybox.com:91/live/CCTV16hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV16hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CCTV17-农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17-农业农村.png" group-title="🇨🇳电视频道",CCTV17-农业农村
-http://ori.jsblive.hls.domybox.com:91/live/CCTV17-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV17-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV17-农业农村" tvg-logo="https://live.fanmingming.com/tv/CCTV17-农业农村.png" group-title="🇨🇳电视频道",CCTV17-农业农村
-http://ori.jsblive.hls.domybox.com:91/live/CCTV17hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTV17hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🇨🇳电视频道",湖南卫视
-http://ori.jsblive.hls.domybox.com:91/live/HuNWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/HuNWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="🇨🇳电视频道",湖南卫视
-http://ori.jsblive.hls.domybox.com:91/live/HuNWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/HuNWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳电视频道",河南卫视
-http://ori.jsblive.hls.domybox.com:91/live/HuNWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/HuNWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="🇨🇳电视频道",河南卫视
-http://ori.jsblive.hls.domybox.com:91/live/HuNWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/HuNWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🇨🇳电视频道",北京卫视
-http://ori.jsblive.hls.domybox.com:91/live/BJWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/BJWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="🇨🇳电视频道",北京卫视
-http://ori.jsblive.hls.domybox.com:91/live/BJWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/BJWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🇨🇳电视频道",东方卫视
-http://ori.jsblive.hls.domybox.com:91/live/DFWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/DFWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="🇨🇳电视频道",东方卫视
-http://ori.jsblive.hls.domybox.com:91/live/DFWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/DFWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🇨🇳电视频道",天津卫视
-http://ori.jsblive.hls.domybox.com:91/live/TJWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/TJWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="🇨🇳电视频道",天津卫视
-http://ori.jsblive.hls.domybox.com:91/live/TJWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/TJWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🇨🇳电视频道",重庆卫视
-http://ori.jsblive.hls.domybox.com:91/live/CQWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CQWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="🇨🇳电视频道",重庆卫视
-http://ori.jsblive.hls.domybox.com:91/live/CQWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CQWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🇨🇳电视频道",黑龙江卫视
-http://ori.jsblive.hls.domybox.com:91/live/HLJWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/HLJWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png" group-title="🇨🇳电视频道",黑龙江卫视
-http://ori.jsblive.hls.domybox.com:91/live/HLJWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/HLJWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="🇨🇳电视频道",吉林卫视
-http://ori.jsblive.hls.domybox.com:91/live/JLWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/JLWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png" group-title="🇨🇳电视频道",吉林卫视
-http://ori.jsblive.hls.domybox.com:91/live/JLWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/JLWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🇨🇳电视频道",辽宁卫视
-http://ori.jsblive.hls.domybox.com:91/live/LNWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/LNWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="🇨🇳电视频道",辽宁卫视
-http://ori.jsblive.hls.domybox.com:91/live/LNWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/LNWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="内蒙卫视" tvg-logo="https://live.fanmingming.com/tv/内蒙卫视.png" group-title="🇨🇳电视频道",内蒙卫视
-http://ori.jsblive.hls.domybox.com:91/live/NMGWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/NMGWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.com/tv/宁夏卫视.png" group-title="🇨🇳电视频道",宁夏卫视
-http://ori.jsblive.hls.domybox.com:91/live/NXWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/NXWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png" group-title="🇨🇳电视频道",甘肃卫视
-http://ori.jsblive.hls.domybox.com:91/live/GSWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/GSWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png" group-title="🇨🇳电视频道",青海卫视
-http://ori.jsblive.hls.domybox.com:91/live/QHWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/QHWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="🇨🇳电视频道",陕西卫视
-http://ori.jsblive.hls.domybox.com:91/live/SXWS3-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/SXWS3-1500k/live.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🇨🇳电视频道",河北卫视
-http://ori.jsblive.hls.domybox.com:91/live/HeBWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/HeBWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="🇨🇳电视频道",河北卫视
-http://ori.jsblive.hls.domybox.com:91/live/HeBWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/HeBWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.com/tv/山西卫视.png" group-title="🇨🇳电视频道",山西卫视
-http://ori.jsblive.hls.domybox.com:91/live/SXWS1-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/SXWS1-1500k/live.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🇨🇳电视频道",山东卫视
-http://ori.jsblive.hls.domybox.com:91/live/SDWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/SDWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="🇨🇳电视频道",山东卫视
-http://ori.jsblive.hls.domybox.com:91/live/SDWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/SDWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🇨🇳电视频道",安徽卫视
-http://ori.jsblive.hls.domybox.com:91/live/AHWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/AHWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="🇨🇳电视频道",安徽卫视
-http://ori.jsblive.hls.domybox.com:91/live/AHWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/AHWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="🇨🇳电视频道",湖北卫视
-http://ori.jsblive.hls.domybox.com:91/live/HuBWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/HuBWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png" group-title="🇨🇳电视频道",湖北卫视
-http://ori.jsblive.hls.domybox.com:91/live/HuBWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/HuBWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🇨🇳电视频道",江西卫视
-http://ori.jsblive.hls.domybox.com:91/live/JXWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/JXWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png" group-title="🇨🇳电视频道",江西卫视
-http://ori.jsblive.hls.domybox.com:91/live/JXWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/JXWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🇨🇳电视频道",江苏卫视
-http://ori.jsblive.hls.domybox.com:91/live/JSWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/JSWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="🇨🇳电视频道",江苏卫视
-http://ori.jsblive.hls.domybox.com:91/live/JSWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/JSWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🇨🇳电视频道",浙江卫视
-http://ori.jsblive.hls.domybox.com:91/live/ZJWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/ZJWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png" group-title="🇨🇳电视频道",浙江卫视
-http://ori.jsblive.hls.domybox.com:91/live/ZJWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/ZJWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🇨🇳电视频道",东南卫视
-http://ori.jsblive.hls.domybox.com:91/live/DNWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/DNWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png" group-title="🇨🇳电视频道",东南卫视
-http://ori.jsblive.hls.domybox.com:91/live/DNWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/DNWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="🇨🇳电视频道",厦门卫视
-http://ori.jsblive.hls.domybox.com:91/live/XMWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/XMWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="🇨🇳电视频道",广东卫视
-http://ori.jsblive.hls.domybox.com:91/live/GDWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/GDWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="🇨🇳电视频道",广东卫视
-http://ori.jsblive.hls.domybox.com:91/live/GDWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/GDWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🇨🇳电视频道",深圳卫视
-http://ori.jsblive.hls.domybox.com:91/live/SZWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/SZWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png" group-title="🇨🇳电视频道",深圳卫视
-http://ori.jsblive.hls.domybox.com:91/live/SZWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/SZWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="🇨🇳电视频道",广西卫视
-http://ori.jsblive.hls.domybox.com:91/live/GXWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/GXWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png" group-title="🇨🇳电视频道",云南卫视
-http://ori.jsblive.hls.domybox.com:91/live/YNWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/YNWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🇨🇳电视频道",贵州卫视
-http://ori.jsblive.hls.domybox.com:91/live/GZWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/GZWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png" group-title="🇨🇳电视频道",贵州卫视
-http://ori.jsblive.hls.domybox.com:91/live/GZWShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/GZWShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="🇨🇳电视频道",四川卫视
-http://ori.jsblive.hls.domybox.com:91/live/SCWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/SCWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png" group-title="🇨🇳电视频道",新疆卫视
-http://ori.jsblive.hls.domybox.com:91/live/XJWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/XJWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="🇨🇳电视频道",兵团卫视
-http://ori.jsblive.hls.domybox.com:91/live/BTWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/BTWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="🇨🇳电视频道",农林卫视
-http://ori.jsblive.hls.domybox.com:91/live/NLWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/NLWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="🇨🇳电视频道",大湾区卫视
-http://ori.jsblive.hls.domybox.com:91/live/NFWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/NFWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.com/tv/西藏卫视.png" group-title="🇨🇳电视频道",西藏卫视
-http://ori.jsblive.hls.domybox.com:91/live/XZWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/XZWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="🇨🇳电视频道",海南卫视
-http://ori.jsblive.hls.domybox.com:91/live/LYWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/LYWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="🇨🇳电视频道",三沙卫视
-http://ori.jsblive.hls.domybox.com:91/live/SSWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/SSWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="纪实文人" tvg-logo="https://live.fanmingming.com/tv/纪实文人.png" group-title="🇨🇳电视频道",纪实文人
-http://ori.jsblive.hls.domybox.com:91/live/JSRWhd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/JSRWhd-8M/live.m3u8
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="🇨🇳电视频道",金鹰纪实
-http://ori.jsblive.hls.domybox.com:91/live/JYJShd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/JYJShd-8M/live.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="🇨🇳电视频道",哈哈炫动
-http://ori.jsblive.hls.domybox.com:91/live/XDKT-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/XDKT-1500k/live.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="🇨🇳电视频道",金鹰卡通
-http://ori.jsblive.hls.domybox.com:91/live/JYKT-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/JYKT-1500k/live.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="🇨🇳电视频道",嘉佳卡通
-http://ori.jsblive.hls.domybox.com:91/live/JJKT-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/JJKT-1500k/live.m3u8
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://live.fanmingming.com/tv/财富天下.png" group-title="🇨🇳电视频道",财富天下
-http://ori.jsblive.hls.domybox.com:91/live/CFTX-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CFTX-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CGTV" tvg-logo="https://live.fanmingming.com/tv/CGTV.png" group-title="🇨🇳电视频道",CGTV
-http://ori.jsblive.hls.domybox.com:91/live/CCTVNEWS-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CCTVNEWS-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CETV1中教1台" tvg-logo="https://live.fanmingming.com/tv/CETV1中教1台.png" group-title="🇨🇳电视频道",CETV1中教1台
-http://ori.jsblive.hls.domybox.com:91/live/CETV1-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CETV1-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CETV1中教1台" tvg-logo="https://live.fanmingming.com/tv/CETV1中教1台.png" group-title="🇨🇳电视频道",CETV1中教1台
-http://ori.jsblive.hls.domybox.com:91/live/CETV1hd-8M/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CETV1hd-8M/live.m3u8
 #EXTINF:-1 tvg-name="CETV1中教2台" tvg-logo="https://live.fanmingming.com/tv/CETV1中教2台.png" group-title="🇨🇳电视频道",CETV1中教2台
-http://ori.jsblive.hls.domybox.com:91/live/CETV2-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CETV2-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CETV1中教3台" tvg-logo="https://live.fanmingming.com/tv/CETV1中教3台.png" group-title="🇨🇳电视频道",CETV1中教3台
-http://ori.jsblive.hls.domybox.com:91/live/CETV3-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CETV3-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CETV1中教4台" tvg-logo="https://live.fanmingming.com/tv/CETV1中教4台.png" group-title="🇨🇳电视频道",CETV1中教4台
-http://ori.jsblive.hls.domybox.com:91/live/CETV4-1500k/live.m3u8
+http://gouwu.pthv.gitv.tv:91/live/CETV4-1500k/live.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="🇨🇳电视频道",CCTV1
 http://116.162.6.191/4309-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/1300.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="🇨🇳电视频道",CCTV2
