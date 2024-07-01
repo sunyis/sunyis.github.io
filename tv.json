@@ -18,331 +18,977 @@
                                                       "filterable": 1,
                                                             "ext": "https://gitee.com/lukei7/k18/raw/Luck/nm.json"
         },
-        {
-          "key": "Free影视",
-                "name": "🚛Free┃秒播",
-                      "type": 3,
-                            "api": "csp_XBPQ",
-                                  "searchable": 1,
-                                        "quickSearch": 1,
-                                              "filterable": 1,
-                                                    "ext": "https://gitee.com/lukei7/k18/raw/Luck/Free.json"
-},
-{
-          "key": "新6V",
-                "name": "4K-HDR",
-                      "type": 3,
-                            "api": "csp_SixV",
-                                  "searchable": 1,
-                                        "quickSearch": 1,
-                                              "changeable": 0,
-                                                    "ext": "http://www.xb6v.com/"
-},
-        {
-            			"key": "葡萄短剧",
-                        			"name": "🚛葡萄┃短剧",
-                                    			"type": 3,
-                                                			"api": "csp_XBPQ",
-                                                            			"searchable": 1,
-                                                                        			"quickSearch": 1,
-                                                                                    			"filterable": 1,
-                                                                                                			"ext": "https://gitee.com/lukei7/k18/raw/Luck/putao.json"
-        },
+{"key":"csp_美益达影视","name":"💄美益达影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.myd02.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"}}, 
+ {"key":"新片吧","name":"💛新片吧影院","type":3,"api":"csp_XBPQ","ext":{"简介":"style=\"display: none;\">&&","数组":"class=\"stui-vodlist&&","线路数组":"","线路标题":"公子专属+>&&<","分类url":"https://www.pbatv.cc/pbtop/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#纪录片$jilupian"}}, 
+{"key":"星空影视2","name":"⭐星空福利","type":3,"api":"csp_XBPQ","ext":{"首页":"网红短剧","简介":"刘公子给您该片简介：+col-pd\">&&
+","线路数组":"#playlist&&","副标题":"公子专属","播放数组":"stui-content__playlist clearfix&&","跳转播放链接":"varurlDecode(var player_*url\":\"&&\")","搜索url":"https://www.nbhuiding.com/search/{wd}----------{pg}---.html","分类url":"https://www.nbhuiding.com/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html[https://www.nbhuiding.com/list/{cateId}.html]","分类":"剧集$2#网红短剧$34#国产剧$13#国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其他剧$22#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23#综艺$3#大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28#动漫$4#国产动漫$29#日韩动漫$30#欧美动漫$31#其他动漫$32#午夜剧场$33"}}, 
+{"key":"M2077","name":"②2077影视","type":3,"filterable":1,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","简介":"module-info-introduction-content\">&&
+","线路数组":"module-tab-item tab-item&&","线路标题":"&&","跳转播放链接":"var player_*\"url\":\"&&\"","分类url":"https://www.m2077.com/vod-show/{cateId}-{area}-{by}------{catePg}---{year}/","分类":"电影$1#剧集$2#综艺$3#动漫$4#纪录片$5#体育录像$38#18禁$20#短剧爽剧$41"}},  
+{"key":"92kyy","name":"🛍92kyy(爱看)","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","线路数组":"data-dropdown-value=&&[排序:超清>>]","分类url":"https://www.92kyy.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html","分类":"电影$1#电视剧$2#纪录片$63#动漫$4#综艺$3"}}, 
+{"key":"xinjutv","name":"❤️新剧TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"http://www.boi7.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan=&state=&money=&ver=&jq=","分类":"电影$1#电视剧$2#综艺$3#动漫$4"}}, 
+     {
+      "key": "卧龙资源",
+      "name": "🐍卧龙影视",
+      "type": 1,
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "香港剧",
+        "恐怖片",
+        "动作片"
+      ]
+    },
+{"key":"csp_xBPQ_奇优","name":"✇奇优影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","线路数组":"即可快速播放&&","分类url":"http://www.taoju.tv/list/{cateId}_{catePg}.html[http://www.taoju.tv/list/{cateId}.html];;ak","分类":"电影$1#电视剧$2#动漫$3#综艺$4福利$6#妹纸$5"}},
+{"key":"爱奇异","name":"📺爱奇艺(官)","type":3,"api":"http://1.12.237.246:9696/tvbox/lib/drpy2.min.js","ext":"http://1.12.237.246:9696/tvbox/lib/aiqiyi.js"}, {"key":"优酷","name":"📺优酷(官)","type":3,"api":"http://1.12.237.246:9696/tvbox/lib/drpy2.min.js","ext":"http://1.12.237.246:9696/tvbox/lib/youku.js"}, {"key":"腾讯","name":"📺腾讯(官)","type":3,"api":"http://1.12.237.246:9696/tvbox/lib/drpy2.min.js","ext":"http://1.12.237.246:9696/tvbox/lib/tengxun.js"}, 
+{"key":"芒果","name":"📺芒果(官)","type":3,"api":"http://1.12.237.246:9696/tvbox/lib/drpy2.min.js","ext":"http://1.12.237.246:9696/tvbox/lib/mangguo.js"}, 
 
-{
-          "key": "櫻花",
-                "name": "櫻花┃动漫",
-                      "type": 3,
-                            "api": "csp_Ying",
-                                  "searchable": 1,
-                                        "changeable": 0,
-                                              "jar": "https://gitee.com/lukei7/k18/raw/Luck/wypg1.jar"
-},
-{
-          "key": "影视工厂",
-                "name": "影视 | 影视工厂",
-                      "type": 3,
-                            "api": "csp_XBPQ",
-                                  "searchable": 1,
-                                        "quickSearch": 1,
-                                              "filterable": 1,
-                                                    "ext": "分类url:https://www.ysgc.fun/vodtype/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html,分类:电影$1#电视剧$2#综艺$3#动漫$4"
-},
+//==============下米=====================================
+		{
+			"key": "saohuo",
+			"name": "1080P┃骚火",
+			"type": 3,
+			"searchable": 1,
+			"changeable": 0,
+			"quickSearch": 1,
+			"playerType": "2",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"api": "csp_XBPQ",
+			"ext": {
+				"嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+				"分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+				"分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+				"数组二次截取": "class=\"v_list\">&&</ul>",
+				"数组": "\"v_img\"&&/div>",
+				"标题": "title=\"&&\"",
+				"副标题": "v_note\"&&</div",
+				"跳转播放链接": "<iframe*src=\"&&\"",
+				"二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+				"三次跳转播放链接": "\"url\"*\"&&\""
+			}
+		},
+		{
+			"key": "sansan",
+			"name": "1080P┃解析",
+			"type": 3,
+			"api": "csp_SP360",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 0
+		},
+		{
+			"key": "剧圈",
+			"name": "1080P┃剧圈",
+			"type": 3,
+			"api": "csp_Juqq",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		},
+		{
+			"key": "云播",
+			"name": "1080P┃云播",
+			"type": 3,
+			"api": "csp_Tvyb",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		},
+				{
+			"key": "freeok",
+			"name": "1080P┃FROK",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"playerType": "2",
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"ext": {
+				"分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+				"请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+				"分类": "FREE电影&FREE剧集&FREE动漫&FREE综艺",
+				"分类值": "1&2&3&4",
+				"副标题": "<div class=\"module-item-note\">&&</div>",
+				"嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+				"线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
+				"线路标题": "<span>&&</small>",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"简介": "<p>&&</p>"
+			}
+		},
+				{
+			"key": "双黄",
+			"name": "1080P┃蛋蛋",
+			"type": 3,
+			"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+			"api": "csp_XBPQ",
+			"ext": {
+				"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
+				"请求头": "手机#Referer$https://www.dandanju.cc/",
+				"分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
+				"分类": "电影$1#剧集$2#动漫$4#综艺$4",
+				"数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
+				"搜索模式": "1",
+				"搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
+				"搜索数组": "<li class=\"active clearfix&&</li"
+			}
+		},
+	//============上米======================================	
+//============中国======================================
 
     {
-              "key": "drpy_js_奇珍异兽",
-                    "name": "奇珍异兽[js]",
-                          "type": 3,
-                                "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/libs/drpy2.min.js",
-                                      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js"
+      "key": "素白白",
+      "name": "👻素白白",
+      "type": 3,
+      "api": "csp_Subaibai",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "天天",
+      "name": "🌞天天",
+      "type": 3,
+      "api": "csp_TTian",
+      "ext": "http://op.ysdqjs.cn"
+    },
+    {
+      "key": "追剧",
+      "name": "🎬追剧",
+      "type": 3,
+      "api": "csp_TTian",
+      "ext": "http://app.kzjtv.com"
+    },
+    {
+      "key": "低端",
+      "name": "📉低端",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
         {
-                  "key": "drpy_js_优酷",
-                        "name": "优酷[js]",
-                              "type": 3,
-                                    "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/libs/drpy2.min.js",
-                                          "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/js/%E4%BC%98%E9%85%B7.js"
-        },
-{
-          "key": "drpy_js_腾云驾雾",
-                "name": "腾云驾雾[js]",
-                      "type": 3,
-                            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/libs/drpy2.min.js",
-                                  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"
-},
-{
-          "key": "drpy_js_百忙无果",
-                "name": "百忙无果[js]",
-                      "type": 3,
-                            "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/libs/drpy2.min.js",
-                                  "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/1245410/Luck/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
-},
-{
-              "key": "csp_达龟",
-                              "name": "🅱️达龟影院|T追剧",
-                                                    "type": 3,
-                                                                                "api": "csp_XBPQ",
-                                                                                                                  "searchable": 1,
-                                                                                                                                                          "quickSearch": 1,
-                                                                                                                                                                                                        "filterable": 1,
-                                                                                                                                                                                                                                                            "ext": "https://gitee.com/lukei7/k18/raw/Luck/%E8%BE%BE%E8%BE%BE%E9%BE%9F%E5%BD%B1%E8%A7%86.json"
-},
+      "key": "文才影视",
+      "name": "📘文才",
+      "type": 3,
+      "api": "csp_Wexwencai",
+      "searchable": 1,
+      "changeable": 1
+    },
+ {
+      "key": "快看",
+      "name": "🏃快看",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
-                	"key": "XAL蓝光",
-                                	"name": "🆑XAL",
-                                                    	"type": 1,
-                                                                            	"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-                                                                                                        	"playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
-                                                                                                                                        	"searchable": 1,
-                                                                                                                                                                            	"quickSearch": 1
+      "key": "机器人",
+      "name": "🤖机器人",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://v.ikanbot.com"
+    },
+    {
+      "key": "三四八",
+      "name": "🎲三四八",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://稳定接口.tvbox.中国/json/三四八.php"
+    },
+    {
+      "key": "电影牛",
+      "name": "🎬电影牛",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://稳定接口.tvbox.中国/json/电影牛.php"
+    },
+    {
+      "key": "红牛资源",
+      "name": "🐮红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港澳剧",
+        "日剧",
+        "欧美剧",
+        "台湾剧",
+        "泰剧",
+        "韩剧",
+        "纪录片",
+        "动漫电影"
+      ]
+    },
+    {
+      "key": "光速资源",
+      "name": "🚀光速资源",
+      "type": 1,
+      "api": "http://api.guangsuapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "剧情片",
+        "恐怖片",
+        "战争片",
+        "动漫电影",
+        "大陆剧",
+        "欧美剧",
+        "港澳剧",
+        "韩剧",
+        "日剧",
+        "台湾剧",
+        "泰剧",
+        "综艺",
+        "动漫",
+        "记录片"
+      ]
+    },
+    {
+      "key": "极速资源",
+      "name": "🏎️极速资源",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "日剧",
+        "马泰剧",
+        "内地剧",
+        "欧美剧",
+        "香港剧",
+        "韩剧",
+        "台湾剧",
+        "恐怖片",
+        "动画片",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "记录片",
+        "爱情片",
+        "喜剧片",
+        "科幻片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
+    {
+      "key": "快车资源",
+      "name": "🚊快车资源",
+      "type": 1,
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "动画片",
+        "纪录片",
+        "国产剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "泰国剧",
+        "海外剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "索尼资源",
+      "name": "📱索尼资源",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/", 
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "纪录片",
+        "动画片",
+        "国产剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "港剧",
+        "台剧",
+        "泰剧",
+        "海外剧",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
+    {
+      "key": "量子资源",
+      "name": "⚛️量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "非凡资源",
+      "name": "🌟非凡资源",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+ //=============中国========================================   
+	{
+			"key": "索尼资源",
+			"name": "索尼┃资源",
+			"type": 1,
+			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"国产剧",
+				"欧美剧",
+				"韩剧",
+				"日剧",
+				"港剧",
+				"台剧",
+				"泰剧",
+				"海外剧",
+				"纪录片",
+				"大陆综艺",
+				"日韩综艺",
+				"港台综艺",
+				"欧美综艺",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"动画片",
+				"港台动漫",
+				"海外动漫",
+				"演唱会",
+				"体育赛事",
+				"篮球",
+				"足球",
+				"预告片",
+				"斯诺克",
+				"影视解说"
+			],
+			"searchable": 1,
+			"quickSearch": 1
+		},
+
+//============下春======================================
+
+        {
+
+      "key": "xml_火狐",
+
+      "name": "🏠2K┃火狐",
+
+      "type": 1,
+
+      "style": {
+
+        "type": "rect",
+
+        "ratio": 1.0
+
+      },
+
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+
+      "searchable": 1,
+
+      "quickSearch": 0,
+
+      "filterable": 1,
+
+      "categories": [
+
+        "动作片",
+
+        "喜剧片",
+
+        "爱情片",
+
+        "科幻片",
+
+        "恐怖片",
+
+        "剧情片",
+
+        "战争片",
+
+        "悬疑片",
+
+        "犯罪片",
+
+        "奇幻片",
+
+        "记录片",
+
+        "动画片",
+
+        "内地剧",
+
+        "香港剧",
+
+        "台湾剧",
+
+        "日剧",
+
+        "韩剧",
+
+        "欧美剧",
+
+        "马泰剧",
+
+        "大陆综艺",
+
+        "港台综艺",
+
+        "日韩综艺",
+
+        "欧美综艺",
+
+        "中国动漫",
+
+        "日本动漫",
+
+        "欧美动漫"
+
+      ]},
+          {
+
+      "key": "红牛资源",
+
+      "name": "🎀红牛┃采集",
+
+      "type": 1,
+
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+
+      "searchable": 1,
+
+      "changeable": 1,
+
+      "categories": [
+
+        "动作片",
+
+        "喜剧片",
+
+        "爱情片",
+
+        "科幻片",
+
+        "恐怖片",
+
+        "剧情片",
+
+        "战争片",
+
+        "国产剧",
+
+        "港澳剧",
+
+        "日剧",
+
+        "欧美剧",
+
+        "台湾剧",
+
+        "泰剧",
+
+        "韩剧",
+
+        "纪录片",
+
+        "动漫电影"
+
+      ]},
+     {
+
+      "key": "索尼资源",
+
+      "name": "🎀索尼采集",
+
+      "type": 1,
+
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+
+      "searchable": 1,
+
+      "changeable": 1,
+
+      "categories": [
+
+        "动作片",
+
+        "喜剧片",
+
+        "爱情片",
+
+        "科幻片",
+
+        "恐怖片",
+
+        "剧情片",
+
+        "战争片",
+
+        "纪录片",
+
+        "动画片",
+
+        "国产剧",
+
+        "欧美剧",
+
+        "韩剧",
+
+        "日剧",
+
+        "港剧",
+
+        "台剧",
+
+        "泰剧",
+
+        "海外剧",
+
+        "大陆综艺",
+
+        "日韩综艺",
+
+        "港台综艺",
+
+        "欧美综艺",
+
+        "国产动漫",
+
+        "日韩动漫",
+
+        "欧美动漫",
+
+        "港台动漫",
+
+        "海外动漫"
+
+      ]
+
+    },
+//============上春======================================
+
+       {
+            "key": "热播库",
+            "name": "👉春盈┃热播",
+            "type": 3,
+            "changeable": 1,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api": "csp_XBPQ",
+            "playerType": "1",
+            "ext": {
+                "主页url": "https://rebozj.pro",
+                "数组": "class=\"stui-vodlist__thumb lazyload&&</a>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "副标题": "class=\"pic-text text-right\"><b>&&</span>",
+                "搜索模式": "1",
+                "嗅探词": ".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com",
+                "搜索url": "https://rebozj.pro/type/id-.html?wd={wd}",
+                "线路数组": "<h4 class=\"title&&/h4>",
+                "线路标题": ">&&<",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "影片类型": "类型：&&</p>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "display: none;\">&&</span>",
+                "分类": "电视剧$2#电影$1#综艺$3#动漫$4",
+                "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
+                "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
+            }
+        },
+        
+{"key": "豪华资源",  "name": "👉春盈┃豪华", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",  "searchable": 1,  "quickSearch": 1,
+ "categories": [
+        "内地剧",
+        "香港剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "马泰剧",
+        "台湾剧",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "科幻片",
+        "记录片",
+        "爱情片",
+        "喜剧片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
     },
     
-{
-              "key": "索尼资源",
-                    "name": "🎀索尼采集",
-                          "type": 1,
-                                "api": "https://suoniapi.com/api.php/provide/vod/",
-                                      "searchable": 1,
-                                            "changeable": 1,
-                                                  "categories": [
-                                                              "动作片",
-                                                                      "喜剧片",
-                                                                              "爱情片",
-                                                                                      "科幻片",
-                                                                                              "恐怖片",
-                                                                                                      "剧情片",
-                                                                                                              "战争片",
-                                                                                                                      "纪录片",
-                                                                                                                              "动画片",
-                                                                                                                                      "国产剧",
-                                                                                                                                              "欧美剧",
-                                                                                                                                                      "韩剧",
-                                                                                                                                                              "日剧",
-                                                                                                                                                                      "港剧",
-                                                                                                                                                                              "台剧",
-                                                                                                                                                                                      "泰剧",
-                                                                                                                                                                                              "海外剧",
-                                                                                                                                                                                                      "大陆综艺",
-                                                                                                                                                                                                              "日韩综艺",
-                                                                                                                                                                                                                      "港台综艺",
-                                                                                                                                                                                                                              "欧美综艺",
-                                                                                                                                                                                                                                      "国产动漫",
-                                                                                                                                                                                                                                              "日韩动漫",
-                                                                                                                                                                                                                                                      "欧美动漫",
-                                                                                                                                                                                                                                                              "港台动漫",
-                                                                                                                                                                                                                                                                      "海外动漫"
-                                                  ]
-    },
         {
-                  "key": "光速资源",
-                        "name": "🎀光速┃采集🎀",
-                              "type": 1,
-                                    "api": "http://api.guangsuapi.com/api.php/provide/vod/",
-                                          "searchable": 1,
-                                                "changeable": 1,
-                                                      "categories": [
-                                                                  "动作片",
-                                                                          "喜剧片",
-                                                                                  "爱情片",
-                                                                                          "科幻片",
-                                                                                                  "剧情片",
-                                                                                                          "恐怖片",
-                                                                                                                  "战争片",
-                                                                                                                          "动漫电影",
-                                                                                                                                  "大陆剧",
-                                                                                                                                          "欧美剧",
-                                                                                                                                                  "港澳剧",
-                                                                                                                                                          "韩剧",
-                                                                                                                                                                  "日剧",
-                                                                                                                                                                          "台湾剧",
-                                                                                                                                                                                  "泰剧",
-                                                                                                                                                                                          "综艺",
-                                                                                                                                                                                                  "动漫",
-                                                                                                                                                                                                          "记录片"
-                                                      ]
+            "key": "zy_iKun资源",
+            "name": "👉春盈┃接口iKun",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "惊悚片",
+                "家庭片",
+                "古装片",
+                "历史片",
+                "悬疑片",
+                "犯罪片",
+                "灾难片",
+                "记录片",
+                "短片",
+                "动画片",
+                "国产剧",
+                "香港剧",
+                "韩国剧",
+                "欧美剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "欧美动漫",
+                "日本动漫"
+            ]
         },
-            {
-                      "key": "极速资源",
-                            "name": "🎀极速┃采集🎀",
-                                  "type": 1,
-                                        "api": "https://jszyapi.com/api.php/provide/vod/",
-                                              "searchable": 1,
-                                                    "changeable": 1,
-                                                          "categories": [
-                                                                      "日剧",
-                                                                              "马泰剧",
-                                                                                      "内地剧",
-                                                                                              "欧美剧",
-                                                                                                      "香港剧",
-                                                                                                              "韩剧",
-                                                                                                                      "台湾剧",
-                                                                                                                              "恐怖片",
-                                                                                                                                      "动画片",
-                                                                                                                                              "剧情片",
-                                                                                                                                                      "战争片",
-                                                                                                                                                              "动作片",
-                                                                                                                                                                      "记录片",
-                                                                                                                                                                              "爱情片",
-                                                                                                                                                                                      "喜剧片",
-                                                                                                                                                                                              "科幻片",
-                                                                                                                                                                                                      "灾难片",
-                                                                                                                                                                                                              "悬疑片",
-                                                                                                                                                                                                                      "犯罪片",
-                                                                                                                                                                                                                              "中国动漫",
-                                                                                                                                                                                                                                      "日本动漫",
-                                                                                                                                                                                                                                              "欧美动漫"
-                                                          ]
-            },
-                {
-                          "key": "贱贱",
-                                "name": "🎀贱贱采集🎀",
-                                      "type": 3,
-                                            "searchable": 1,
-                                                  "quickSearch": 1,
-                                                        "changeable": 1,
-                                                              "playerType": "1",
-                                                                    "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-                                                                          "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
-                },
-{
-    			"key": "奇优影视",
-                			"name": "🚛奇优┃秒播",
-                            			"type": 3,
-                                        			"api": "csp_XBPQ",
-                                                    			"searchable": 1,
-                                                                			"quickSearch": 1,
-                                                                            			"filterable": 1,
-                                                                                        			"ext": "https://gitee.com/lukei7/k18/raw/Luck/qiyou.json"
-},
-{
-      "key": "Bili",
-      "name": "🅱哔哔┃合集",
+{"key": "csp_xml_爱坤","name": "👉春盈┃爱坤","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://www.ikdmjx.com/?url=","categories": ["动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+        {
+            "key": "saohuo",
+            "name": "👉春盈┃骚火",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "playerType": "2",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api": "csp_XBPQ",
+            "ext": {
+                "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+                "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+                "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+                "数组二次截取": "class=\"v_list\">&&</ul>",
+                "数组": "\"v_img\"&&/div>",
+                "标题": "title=\"&&\"",
+                "副标题": "v_note\"&&</div",
+                "跳转播放链接": "<iframe*src=\"&&\"",
+                "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+                "三次跳转播放链接": "\"url\"*\"&&\""
+            }
+        },
+        {
+            "key": "双黄",
+            "name": "👉春盈┃双黄",
+            "type": 3,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api": "csp_XBPQ",
+            "ext": {
+                "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
+                "请求头": "手机#Referer$https://www.dandanju.cc/",
+                "分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$4",
+                "数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li",
+                "搜索模式": "1",
+                "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
+                "搜索数组": "<li class=\"active clearfix&&</li"
+            }
+        },
+
+        {
+            "key": "加速",
+            "name": "👉春盈┃加速",
+            "type": 3,
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "http://43.154.162.194/ruifenglb_api.php/v1.vod"
+        },
+
+        {"key":"drpy_js_奇珍异兽","name":"👉春盈┃奇珍[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
+        {"key":"drpy_js_优酷","name":"👉春盈┃优酷[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"},
+        {"key":"drpy_js_腾云驾雾","name":"👉春盈┃腾云[js]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"},
+
+{ "key": "Qtv", "name": "👉春盈┃企鹅", "type": 3, "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js", "ext": "http://alist.xn--z7x900a.live/腾云.js", "searchable": 1, "quickSearch": 1, "filterable": 1 }, { "key": "drpy_js_百忙无果", "name": "👉春盈┃芒果", "type": 3, "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js" }, 
+{ "key": "drpy_js_优酷", "name": "👉春盈┃优酷", "type": 3, "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js" }, 
+{ "key": "drpy_js_奇珍异兽", "name": "👉春盈┃爱奇", "type": 3, "api": "http://alist.xn--z7x900a.live/ddrpy2.m.js", "ext": "http://alist.xn--z7x900a.live/爱奇.js" }, 
+{ "key": "搜狗", "name": "👉春盈┃搜狗", "type": 3, "api": "https://weixine.net/js/lib/drpy2.min.js", "ext": "https://weixine.net/js/caigou.js" },
+
+{"key":"腾", "name":"👉春盈┃腾腾", "type":3, "api":"http://a.nxog.top/m/js/nxog.js", "jar": "http://www.wya6.cn/tz/wyog.php", "ext":"http://a.nxog.top/m/js/tt.js" },
+{"key":"优", "name":"👉春盈┃优优", "type":3, "api":"http://a.nxog.top/m/js/nxog.js", "jar": "http://www.wya6.cn/tz/wyog.php", "ext":"http://a.nxog.top/m/js/yy.js" },
+{"key":"芒", "name":"👉春盈┃芒芒", "type":3, "api":"http://a.nxog.top/m/js/nxog.js", "jar": "http://www.wya6.cn/tz/wyog.php", "ext":"http://a.nxog.top/m/js/mm.js" },
+{ "key": "drpy_js_优酷", "name": "👉春盈┃优酷", "type": 3, "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js", "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js" },
+{ "key":"爱", "name":"👉春盈┃爱爱", "type":3, "api":"http://a.nxog.top/m/js/nxog.js", "jar": "http://www.wya6.cn/tz/wyog.php", "ext":"http://a.nxog.top/m/js/aa.js" },
+//=========================================================
+		{
+			"key": "暴风",
+			"name": "👉春盈┃暴风",
+			"type": 1,
+			"api": "https://app.bfzyapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"filterable": 1,
+			"quickSearch": 1,
+			"categories": ["国产动漫", "日韩动漫", "欧美动漫", "海外动漫", "动画片", "国产剧", "韩国剧", "香港剧", "台湾剧", "欧美剧", "动作片", "科幻片", "喜剧片", "恐怖片", "战争片"]
+		},
+		{
+			"key": "量子",
+			"name": "👉春盈┃量子",
+			"type": 1,
+			"api": "https://cj.lziapi.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": ["国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "国产剧", "韩国剧", "日本剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "台湾剧", "香港剧", "欧美剧", "短剧", "记录片", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "体育", "足球", "篮球", "网球", "斯落克"]
+		},
+
+//====================结束========================================
+
+{"key":"酷奇","name":"🎤酷奇┃MV","type": 3,"api":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/MTV.json"},
+{ "key": "Yinyuetai", "name": "👉春盈┃音悦台", "type": 3, "api": "csp_Yinyuetai", "jar": "http://www.wya6.cn/tz/wyfn.php", "searchable": 1, "changeable": 0 }, 
+  {
+      "key": "相声",
+      "name": "📻春盈┃相声",
       "type": 3,
-      "api": "csp_Bili",
+      "searchable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 1,
       "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/main/bilibili.json"
-    },
-{
-      "key": "Biliych",
-      "name": "🅱哔哔┃歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/1245410/Luck/main/biliych.json"
-    },
-    {
-          "key": "csp_不卡",
-                "name": "🅱️不卡影视|T追剧",
-                      "type": 3,
-                            "api": "csp_XBPQ",
-                                  "searchable": 1,
-                                        "quickSearch": 1,
-                                              "filterable": 1,
-                                                    "ext": "https://gitee.com/lukei7/k18/raw/Luck/%E7%9C%9F%E4%B8%8D%E5%8D%A1%E5%BD%B1%E8%A7%86.json"
-},
-{
-              "key": "keke",
-                    "name": "影视 | 可可影视",
-                          "type": 3,
-                                "api": "csp_XBPQ",
-                                      "searchable": 1,
-                                            "jar": "https://gitee.com/lukei7/k18/raw/Luck/1.jar",
-                                                  "quickSearch": 1,
-                                                        "changeable": 1,
-                                                              "ext": {
-                                                                          "分类url": "https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}--{catePg}.html",
-                                                                                  "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$6"
-                                                              }
+      "api": "csp_XBPQ",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+      "ext": {
+        "主页url": "https://www.xsmp3.com",
+        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+        "数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
+        "图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
+        "标题": "title=\"&&\"",
+        "副标题": ">&&</a",
+        "链接": "href=\"&&\"",
+        "播放二次截取": "autoplay&&;</script>",
+        "播放数组": "\\[&&\\]",
+        "播放列表": "{&&}",
+        "播放链接": "url*\"&&\"",
+        "播放标题": "name*\"&&\"",
+        "播放副标题": "artist*\"&&\"",
+        "线路数组": "相声随身听",
+        "线路标题": "相声随身听",
+        "导演": "小米",
+        "主演": "相声明星",
+        "简介": "相声合集",
+        "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
+        "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
+      }
     },
         {
-            "key": "少儿教育",
-            "name": "📚少儿┃教育",
+            "key": "评书",
+            "name": "📻春盈┃评书",
             "type": 3,
-            "api": "csp_Bili",
+            "searchable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1.597
             },
-            "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"
+            "api": "csp_XBPQ",
+            "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+            "ext": {
+                "主页url": "https://www.psmp3.com",
+                "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+                "数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
+                "图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
+                "标题": "title=\"&&\"",
+                "副标题": ">&&</a",
+                "链接": "href=\"&&\"",
+                "播放二次截取": "autoplay&&;</script>",
+                "播放数组": "\\[&&\\]",
+                "播放列表": "{&&}",
+                "播放链接": "url*\"&&\"",
+                "播放标题": "name*\"&&\"",
+                "播放副标题": "artist*\"&&\"",
+                "线路数组": "评书随身听",
+                "线路标题": "评书随身听",
+                "导演": "小米",
+                "主演": "评书明星",
+                "简介": "评书合集",
+                "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
+                "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
+            }
         },
-        {
-            "key": "小学课堂",
-            "name": "📚小学┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json"
-        },
-        {
-            "key": "初中课堂",
-            "name": "📚初中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
-        },
-        {
-            "key": "高中教育",
-            "name": "📚高中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json"
-        },
-{"key": "7b1d09368af7a13806e1a8e1e43850e5", "name": "①非凡", "type": 1, "api": "https://cj.ffzyapi.com/api.php/provide/vod/"}, {"key": "c8af26ef0238ad65540ef8c8a2a1d738", "name": "②量子", "type": 1, "api": "https://cj.lziapi.com/api.php/provide/vod/"}, {"key": "2d50e74976a7802fd673d75738bce50e", "name": "③1080", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php"}, {"key": "3d5c3e1aec25f3ad4a8078bf6374baf1", "name": "④天空", "type": 1, "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/"}, {"key": "7ced0073619101d397b5c86fc3578ed4", "name": "⑤火狐", "type": 1, "api": "https://hhzyapi.com/api.php/provide/vod/"}, {"key": "f23b71d83be4dc05a3113596e482d0f4", "name": "⑥飞速", "type": 1, "api": "https://www.feisuzyapi.com/api.php/provide/vod/"}, {"key": "ffbd9b462e2a953e04e79add6b95fb19", "name": "⑦新浪", "type": 1, "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/"}, {"key": "411fd4fd74ef8361869eb302bd0a9ba1", "name": "⑧1080", "type": 0, "api": "https://api.1080zyku.com/inc/ldg_api_all.php"}, {"key": "09b1d50c0474260ef24afb0edb852d53", "name": "⑨花旗", "type": 0, "api": "https://seacms.huaqi.live/zyapi.php"}, {"key": "0bb5e6bbc093809e9bc7228a0b9a8e9a", "name": "⑩最大", "type": 0, "api": "https://api.zuidapi.com/api.php/provide/vod/at/xml"}, {"key": "0d23b4cc8869bd14096aab5c2f39b05a", "name": "⑪量子", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/"}, {"key": "1a217dd1a106df937e230b605726d197", "name": "⑫极速", "type": 0, "api": "https://jszyapi.com/api.php/provide/vod/at/xml"}, {"key": "1c5cdb5c52397569692bf3e78ed494b2", "name": "⑬火狐", "type": 0, "api": "https://hhzyapi.com/api.php/provide/vod/at/xml"}, {"key": "2b95a57602ae920c848d81627e162f9e", "name": "⑭无尽", "type": 1, "api": "https://api.wujinapi.me/api.php/provide/vod/"}, {"key": "2db4768781aebc9d0dd0de88a838ceb8", "name": "⑮红牛", "type": 1, "api": "https://www.hongniuzy3.com/api.php/provide/vod/"}, {"key": "331594be1fa27287d42aef692b81fbd8", "name": "⑯1080", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php?ac=list", "playUrl": "https://vip.zykbf.com/?url="}, {"key": "3571da613493ac63a65bd2fd2bbc4712", "name": "⑰1080", "type": 1, "api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list"}, {"key": "812d8c0f5b76f176d07d869338a91c52", "name": "⑱华为", "type": 0, "api": "https://hw8.live/api.php/provide/vod/at/xml"}, {"key": "875e8c408861f731af4dd35cd3b6d2ce", "name": "⑲光速", "type": 0, "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml"}, {"key": "a3e7b5eed275b2a0a1144c653c3f3a29", "name": "⑳虎牙", "type": 0, "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml"}, {"key": "b7487279afa65ff49847bc43f8aa8def", "name": "㉑无尽", "type": 0, "api": "https://api.wujinapi.net/api.php/provide/vod/at/xml"}, {"key": "bbada9fa837946d45a16732de3794b40", "name": "㉒卧龙", "type": 0, "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml"}, {"key": "bffc8eda36ffccdfcb5a8622b524d825", "name": "㉓暴风", "type": 0, "api": "https://bfzyapi.com/api.php/provide/vod/at/xml"}, {"key": "edc3f4a6d76dcb2ae7d7ee4bf806cfbd", "name": "㉔49", "type": 0, "api": "https://49zyw.com/api.php/provide/vod/at/xml"}, {"key": "f1c74641510fb9d80b159427337c34cc", "name": "㉕天空", "type": 0, "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml"}, {"key": "f6938ae0ad85f4907983945a086626f9", "name": "㉖1080", "type": 0, "api": "https://api.1080zyku.com/inc/api.php"}, {"key": "ff3ce0548cdd8c0c6f0df838f2660755", "name": "㉗绿色", "type": 1, "api": "https://www.wolongzyw.com/api.php/provide/vod/", "filterable": 0}, {"key": "0aa232d09290b410177086af0c6dda47", "name": "㉘约爱", "type": 1, "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/"}, {"key": "548c69066731916a1611dacb0e3b452c", "name": "㉙量子", "type": 1, "api": "https://lzizy8.com/api.php/provide/vod/"}, {"key": "16cfe5fb43282cd0609786037845f50b", "name": "㉚无尽", "type": 1, "api": "https://api.wujinapi.net/api.php/provide/vod/"}, {"key": "e173267b0d7e1f1a1189c22c3bb7b556", "name": "㉛淘片", "type": 0, "api": "https://taopianapi.com/cjapi/mc10/vod/xml.html"}, {"key": "28b71138ccfa2bab7197a504988e93ae", "name": "㉜49", "type": 1, "api": "https://49zyw.com/api.php/provide/vod/"}, {"key": "ef2505a9c9136b6c49825e59654ab605", "name": "㉝飞速", "type": 1, "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/"}, {"key": "1da07dd492485c3c8a9eb089cd9e943a", "name": "㉞天空", "type": 1, "api": "https://api.tiankongapi.com/api.php/provide/vod/"}, {"key": "992ae5cbb1c5c2b16e7d2858d94a9384", "name": "㉟1080", "type": 1, "api": "https://api.1080zyku.com/inc/api_mac10.php"}], 
+        {"key": "戏曲自定义",
+    "name": "📻春盈┃戏曲",
+    "type": 3,"api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://gitee.com/hailin886/fty/raw/master/tvbox/xiqu.json",
+    "spider":"https://gitee.com/hailin886/fty/raw/master/tvbox/xiqu.jar"
+    },
+ {"key":"88js","name":"⚽ 88┃看球","type":3,"api":"csp_Kanqiu","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"Jrsjs","name":"⚽ Jrs┃球迷","type": 3,"api":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"310js","name":"⚽310┃看球","type":3,"api":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
+
+{ "key": "美食", "name": "👉春盈┃天下美食", "type": 3, "api": "csp_Bili", "jar": "http://www.wya6.cn/tz/wyog.php", "searchable": 0, "quickSearch": 0, "filterable": 1, "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/Bilibili/美食.json" },
+
+{"key":"天下美食","name":"🅱美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://122.51.37.23/man/bili/美食.json"},
+
+{"key":"软件教程","name":"📚软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://122.51.37.23/man/bili/软件教程.json"},
+
+{"key":"学外语","name":"📚学外语","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://122.51.37.23/man/bili/学外语.json"},
+
+{"key":"儿童","name":"📚幼儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://122.51.37.23/man/bili/幼儿教育.json"},
+
+{"key":"小学","name":"📚小学教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://122.51.37.23/man/bili/小学教育.json"},
+
+{"key":"初中","name":"📚初中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://122.51.37.23/man/bili/初中教育.json"},
+
+{"key":"高中","name":"📚高中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://122.51.37.23/man/bili/高中教育.json"},
+
+{"key":"中医","name":"📚中医中药","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://122.51.37.23/man/bili/中医.json"},
+
+{"key":"T4-djmv","name":"音乐-DjMV(T4)","type":4,"api":"https://catbox.n13.club/t5/djmv.php"},
+    
         
         "parses":[
 {
