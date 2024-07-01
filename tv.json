@@ -987,8 +987,7 @@
 
 {"key":"中医","name":"📚中医中药","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://122.51.37.23/man/bili/中医.json"},
 
-{"key":"T4-djmv","name":"音乐-DjMV(T4)","type":4,"api":"https://catbox.n13.club/t5/djmv.php"},
-    
+{"key":"T4-djmv","name":"音乐-DjMV(T4)","type":4,"api":"https://catbox.n13.club/t5/djmv.php"}], 
         
         "parses":[
 {
